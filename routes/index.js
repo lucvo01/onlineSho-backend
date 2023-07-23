@@ -7,25 +7,20 @@ router.get("/", function (req, res, next) {
   res.status(200).send("Welcome to CoderSchool!");
 });
 
-router.get("/template/:test", async (req, res, next) => {
-  const { test } = req.params;
-  try {
-    //turn on to test error handling
-    if (test === "error") {
-      throw new AppError(401, "Access denied", "Authentication Error");
-    } else {
-      sendResponse(
-        res,
-        200,
-        true,
-        { data: "template" },
-        null,
-        "template success"
-      );
-    }
-  } catch (err) {
-    next(err);
-  }
-});
+//authApi
+const authApi = require("./auth.api.js");
+router.use("/login", authApi);
+
+//userApi
+const userApi = require("./user.api.js");
+router.use("/users", userApi);
+
+//productApi
+const productApi = require("./product.api");
+router.use("/products", productApi);
+
+//orderApi
+const orderApi = require("./order.api");
+router.use("/orders", orderApi);
 
 module.exports = router;

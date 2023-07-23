@@ -11,8 +11,9 @@ var indexRouter = require("./routes/index");
 var app = express();
 
 app.use(logger("dev"));
-app.use(express.json());
-app.use(express.urlencoded({ extended: false }));
+// app.use(express.urlencoded({ extended: false }));
+app.use(express.json({ limit: "100mb" }));
+app.use(express.urlencoded({ limit: "100mb", extended: false }));
 app.use(cookieParser());
 app.use(express.static(path.join(__dirname, "public")));
 app.use(cors());
@@ -30,21 +31,21 @@ app.use("/", indexRouter);
 
 // catch 404 and forard to error handler
 app.use((req, res, next) => {
-  const err = new AppError(404,"Not Found","Bad Request");
+  const err = new AppError(404, "Not Found", "Bad Request");
   next(err);
 });
 
 /* Initialize Error Handling */
 app.use((err, req, res, next) => {
   console.log("ERROR", err);
-    return sendResponse(
-      res,
-      err.statusCode ? err.statusCode : 500,
-      false,
-      null,
-      { message: err.message },
-      err.isOperational ? err.errorType : "Internal Server Error"
-    );
+  return sendResponse(
+    res,
+    err.statusCode ? err.statusCode : 500,
+    false,
+    null,
+    { message: err.message },
+    err.isOperational ? err.errorType : "Internal Server Error"
+  );
 });
 
 module.exports = app;
