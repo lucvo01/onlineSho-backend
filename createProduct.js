@@ -1,5 +1,6 @@
 const { faker } = require("@faker-js/faker");
 const { parse } = require("dotenv");
+const fs = require("fs");
 
 const createProduct = (numberOfProducts) => {
   if (!numberOfProducts) {
@@ -9,16 +10,27 @@ const createProduct = (numberOfProducts) => {
   numberOfProducts = parseInt(numberOfProducts);
   console.log("Creating Products");
 
+  let products = [];
+
   for (let i = 0; i < numberOfProducts; i++) {
     const product = {
       name: faker.commerce.productName(),
+      description: faker.lorem.paragraph({ min: 1, max: 3 }),
       price: faker.commerce.price({ min: 100, max: 200, dec: 0, symbol: "$" }),
-      url: faker.image.urlLoremFlickr({ category: 'fashion' })
+      image: faker.image.urlLoremFlickr({ category: "fashion" }),
+      isDeleted: false
     };
-    console.log("Products", product);
+    products.push(product);
   }
+  fs.writeFileSync("data.json", JSON.stringify(products));
 };
 
 const input = process.argv.slice(2)[0];
-console.log(input)
-createProduct(input)
+// console.log(input);
+createProduct(input);
+
+// const createData = async (input) => {
+//   let data = JSON.parse(fs.readFileSync("db.json", "utf-8"));
+//   createProduct(input);
+//   fs.writeFileSync("data.json", JSON.stringify(data));
+// };
