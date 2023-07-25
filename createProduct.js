@@ -26,11 +26,4 @@ const createProduct = (numberOfProducts) => {
 };
 
 const input = process.argv.slice(2)[0];
-// console.log(input);
 createProduct(input);
-
-// const createData = async (input) => {
-//   let data = JSON.parse(fs.readFileSync("db.json", "utf-8"));
-//   createProduct(input);
-//   fs.writeFileSync("data.json", JSON.stringify(data));
-// };
