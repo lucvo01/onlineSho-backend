@@ -3,7 +3,7 @@ const mongoose = require("mongoose");
 const userSchema = mongoose.Schema(
   {
     isAdmin: { type: Boolean, enum: [true, false], default: false },
-    name: { type: String, required: true, minlength: 3, maxlength: 30 },
+    name: { type: String, required: true, minlength: 2, maxlength: 30 },
     email: {
       type: String,
       required: true,
