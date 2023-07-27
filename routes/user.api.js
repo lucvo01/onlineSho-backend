@@ -25,6 +25,13 @@ router.post(
 );
 
 /**
+ * @route GET /users/me
+ * @description Get current user info
+ * @access Login required
+ */
+router.get("/me", authentication.loginRequired, userController.getCurrentUser);
+
+/**
  * @route GET /user/:userId
  * @description Get user info
  * @body { email, password }
@@ -36,7 +43,7 @@ router.get(
   validators.validate([
     param("userId").exists().isString().custom(validators.checkObjectId)
   ]),
-  userController.getCurrentUser
+  userController.getSingleUser
 );
 
 // Cart APIs

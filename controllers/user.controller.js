@@ -36,6 +36,17 @@ userController.createUser = catchAsync(async (req, res, next) => {
 });
 
 userController.getCurrentUser = catchAsync(async (req, res, next) => {
+  const currentUserId = req.user._id;
+
+  console.log(req);
+  const user = await User.findById(currentUserId);
+  if (!user)
+    throw new AppError(400, "User not found", "Get current user error");
+
+  sendResponse(res, 200, true, user, null, "Get current user successful");
+});
+
+userController.getSingleUser = catchAsync(async (req, res, next) => {
   const currentUserId = req.params.userId;
 
   const user = await User.findById(currentUserId);
