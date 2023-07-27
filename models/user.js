@@ -2,7 +2,7 @@ const mongoose = require("mongoose");
 //Create schema
 const userSchema = mongoose.Schema(
   {
-    isAdmin: { type: Boolean, enum: [true, false], require: true },
+    isAdmin: { type: Boolean, enum: [true, false], default: false },
     name: { type: String, required: true, minlength: 3, maxlength: 30 },
     email: {
       type: String,
