@@ -35,7 +35,7 @@ router.put(
  * @access Login required
  */
 router.put(
-  "/admin/:orderId",
+  "/:orderId",
   authentication.isAdmin,
   validators.validate([
     param("orderId").exists().isString().custom(validators.checkObjectId)
