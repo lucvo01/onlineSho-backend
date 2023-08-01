@@ -28,6 +28,11 @@ utilsHelper.AppError = AppError;
 
 utilsHelper.generateToken = (user) => {
   const jwtSecretKey = process.env.JWT_SECRET_KEY;
+   if (!jwtSecretKey || typeof jwtSecretKey !== "string") {
+     throw new Error(
+       "Invalid JWT secret key. Please check your environment variable."
+     );
+   }
   const token = jwt.sign(
     {
       _id: user._id,
