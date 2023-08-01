@@ -46,7 +46,7 @@ router.put(
  * @access Login required
  */
 router.put(
-  "/:productId",
+  "/:productId/edit",
   authentication.isAdmin,
   param("productId").exists().isString().custom(validators.checkObjectId),
   productController.updateProduct

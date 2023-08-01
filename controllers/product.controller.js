@@ -53,8 +53,8 @@ productController.updateProduct = catchAsync(async (req, res, next) => {
     {
       name,
       description,
-      price,
-      image: uploadResponse
+      price
+      // image: uploadResponse
     },
     { new: true }
   );
