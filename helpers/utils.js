@@ -35,7 +35,10 @@ utilsHelper.generateToken = (user) => {
       email: user.email,
       isAdmin: user.isAdmin
     },
-    jwtSecretKey
+    jwtSecretKey,
+    {
+      expiresIn: "24h" // expires in 24 hours
+    }
   );
   return token;
 };
