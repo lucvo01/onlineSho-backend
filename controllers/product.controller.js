@@ -59,14 +59,7 @@ productController.updateProduct = catchAsync(async (req, res, next) => {
     { new: true }
   );
   await updatedProduct.save();
-  sendResponse(
-    res,
-    200,
-    true,
-    { product: updatedProduct },
-    null,
-    "Update Product Success"
-  );
+  sendResponse(res, 200, true, updatedProduct, null, "Update Product Success");
 });
 
 productController.getAllProducts = catchAsync(async (req, res, next) => {

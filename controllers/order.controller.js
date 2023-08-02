@@ -8,6 +8,7 @@ const orderController = {};
 orderController.createOrder = catchAsync(async (req, res, next) => {
   const newOrder = new Order(req.body);
   await newOrder.populate("userId");
+  await newOrder.populate("products.productId");
 
   await newOrder.save();
   sendResponse(res, 200, true, newOrder, null, "Create Order Success");
