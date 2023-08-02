@@ -18,6 +18,7 @@ const createProduct = (numberOfProducts) => {
       description: faker.lorem.paragraph({ min: 1, max: 3 }),
       price: faker.number.float({ min: 100, max: 200, precision: 0.01 }),
       image: faker.image.urlLoremFlickr({ category: "fashion" }),
+      gender: faker.person.sex(),
       isDeleted: false
     };
     products.push(product);
