@@ -12,7 +12,8 @@ const userSchema = mongoose.Schema(
       unique: true
     },
     password: { type: String, required: true, minlength: 3, maxlength: 1024 },
-    address: { type: String, required: false, minlength: 3, maxlength: 1024 }
+    address: { type: String, required: false, minlength: 3, maxlength: 1024 },
+    phone: { type: Number, required: false, maxlength: 10 }
   },
   {
     timestamps: true
