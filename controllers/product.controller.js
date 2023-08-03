@@ -69,6 +69,11 @@ productController.getAllProducts = catchAsync(async (req, res, next) => {
 
   const filterConditions = [{ isDeleted: false }];
 
+  if (filter.name) {
+    filterConditions.push({ name: { $regex: new RegExp(filter.name, "i") } });
+    delete filter.name;
+  }
+  console.log(filterConditions);
   if (Object.keys(filter).length > 0) {
     filterConditions.push({ ...filter });
   }
