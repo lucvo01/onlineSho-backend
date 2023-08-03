@@ -46,24 +46,19 @@ router.get(
   userController.getSingleUser
 );
 
-// Cart APIs
-
 /**
- * @route GET /cart
- * @description Get all products in cart
- * @access Public
+ * @route PUT /user/:userId
+ * @description Update user info
+ * @body { name, email, password }
+ * @access Login required
  */
-
-/**
- * @route GET /cart/checkout
- * @description Checkout cart
- * @access Public
- */
-
-/**
- * @route GET /cart/checkout/payment
- * @description Make payment
- * @access Public
- */
+router.put(
+  "/:userId",
+  authentication.loginRequired,
+  validators.validate([
+    param("userId").exists().isString().custom(validators.checkObjectId)
+  ]),
+  userController.updateUserById
+);
 
 module.exports = router;

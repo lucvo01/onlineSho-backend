@@ -56,7 +56,24 @@ userController.getSingleUser = catchAsync(async (req, res, next) => {
   sendResponse(res, 200, true, user, null, "Get current user successful");
 });
 
-userController.getCartPoducts = catchAsync(async (req, res, next) => {});
+userController.updateUserById = catchAsync(async (req, res, next) => {
+  const userId = req.params.userId;
+  const info = req.body;
+  const options = { new: true };
+  try {
+    const updatedUser = await User.findByIdAndUpdate(userId, info, options);
+    sendResponse(
+      res,
+      200,
+      true,
+      { data: updatedUser },
+      null,
+      "Update user success"
+    );
+  } catch (error) {
+    next(error);
+  }
+});
 
 //export
 module.exports = userController;
