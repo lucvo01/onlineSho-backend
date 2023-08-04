@@ -6,7 +6,6 @@ const {
 } = require("../helpers/utils.js");
 const bcrypt = require("bcryptjs");
 const User = require("../models/user.js");
-const { findById } = require("../models/order.js");
 
 const userController = {};
 
@@ -59,10 +58,32 @@ userController.getSingleUser = catchAsync(async (req, res, next) => {
 userController.updateUserById = catchAsync(async (req, res, next) => {
   const userId = req.params.userId;
   const info = req.body;
+  console.log("req", req);
   const options = { new: true };
+
   try {
-    const updatedUser = await User.findByIdAndUpdate(userId, info, options);
-    sendResponse(res, 200, true, updatedUser, null, "Update user success");
+    let newPassword = req.body.password;
+    if (newPassword) {
+      const salt = await bcrypt.genSalt(10);
+      newPassword = await bcrypt.hash(newPassword, salt);
+    }
+
+    const updatedUser = await User.findByIdAndUpdate(
+      userId,
+      { ...info, password: newPassword },
+      options
+    );
+
+    const accessToken = generateToken(updatedUser);
+
+    sendResponse(
+      res,
+      200,
+      true,
+      { user: updatedUser, accessToken },
+      null,
+      "Update user success"
+    );
   } catch (error) {
     next(error);
   }

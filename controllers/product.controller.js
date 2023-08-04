@@ -73,13 +73,13 @@ productController.getAllProducts = catchAsync(async (req, res, next) => {
     filterConditions.push({ name: { $regex: new RegExp(filter.name, "i") } });
     delete filter.name;
   }
-    if (filter.gender) {
-      filterConditions.push({
-        gender: { $regex: new RegExp(filter.gender, "i") }
-      });
-      delete filter.gender;
-    }
-  console.log(filterConditions);
+  if (filter.gender) {
+    filterConditions.push({
+      gender: { $regex: new RegExp(`^${filter.gender}$`, "i") }
+    });
+    delete filter.gender;
+  }
+
   if (Object.keys(filter).length > 0) {
     filterConditions.push({ ...filter });
   }
@@ -87,8 +87,9 @@ productController.getAllProducts = catchAsync(async (req, res, next) => {
   const filterCriteria = filterConditions.length
     ? { $and: filterConditions }
     : {};
-
-  const count = await Product.countDocuments(filterConditions);
+  console.log(filterConditions);
+  const count = await Product.countDocuments(filterCriteria);
+  console.log("count", count);
   const totalPages = Math.ceil(count / limit);
   const offset = limit * (page - 1);
 
