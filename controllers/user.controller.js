@@ -62,14 +62,7 @@ userController.updateUserById = catchAsync(async (req, res, next) => {
   const options = { new: true };
   try {
     const updatedUser = await User.findByIdAndUpdate(userId, info, options);
-    sendResponse(
-      res,
-      200,
-      true,
-      { data: updatedUser },
-      null,
-      "Update user success"
-    );
+    sendResponse(res, 200, true, updatedUser, null, "Update user success");
   } catch (error) {
     next(error);
   }
