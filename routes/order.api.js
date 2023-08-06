@@ -65,18 +65,17 @@ router.get(
 );
 
 /**
- * @route GET /orders/:userId/:orderId
- * @description Track a user orders
+ * @route GET /orders/:orderId
+ * @description Get an order
  * @access Login required
  */
-// router.get(
-//   "/:userId/:orderId",
-//   authentication.isUser,
-//   validators.validate([
-//     param("userId").exists().isString().custom(validators.checkObjectId),
-//     param("orderId").exists().isString().custom(validators.checkObjectId)
-//   ]),
-//   orderController.getUserOrders
-// );
+router.get(
+  "/:orderId",
+  authentication.loginRequired,
+  validators.validate([
+    param("orderId").exists().isString().custom(validators.checkObjectId)
+  ]),
+  orderController.getAnOrder
+);
 
 module.exports = router;

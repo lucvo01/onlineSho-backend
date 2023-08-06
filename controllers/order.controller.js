@@ -95,8 +95,19 @@ orderController.getSingleUserOrders = catchAsync(async (req, res, next) => {
     true,
     { orders: orders },
     null,
-    "Get All Orders Success"
+    "Get User's Orders Success"
   );
+});
+
+orderController.getAnOrder = catchAsync(async (req, res, next) => {
+  const id = req.params.orderId;
+
+  const order = await Order.findById(id)
+    .populate("userId")
+    .populate("products._id");
+  if (order.isDeleted)
+    throw new AppError(400, "Order Not Found", "Get Order Error");
+  sendResponse(res, 200, true, order, null, "Get Single Order Success");
 });
 
 //export
