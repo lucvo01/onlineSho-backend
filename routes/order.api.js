@@ -57,7 +57,7 @@ router.get("/", authentication.isAdmin, orderController.getAllOrders);
  */
 router.get(
   "/find/:userId",
-  authentication.isUser,
+  authentication.loginRequired,
   validators.validate([
     param("userId").exists().isString().custom(validators.checkObjectId)
   ]),

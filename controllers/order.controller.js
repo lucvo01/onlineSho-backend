@@ -8,7 +8,7 @@ const orderController = {};
 orderController.createOrder = catchAsync(async (req, res, next) => {
   const newOrder = new Order(req.body);
   await newOrder.populate("userId");
-  await newOrder.populate("products.productId");
+  await newOrder.populate("products._id");
 
   await newOrder.save();
   sendResponse(res, 200, true, newOrder, null, "Create Order Success");
@@ -16,6 +16,14 @@ orderController.createOrder = catchAsync(async (req, res, next) => {
 
 orderController.updateOrder = catchAsync(async (req, res, next) => {
   const id = req.params.orderId;
+  const {
+    email,
+    phone,
+    shipping,
+    delivery_status,
+    payment_method,
+    payment_status
+  } = req.body;
 
   const updatedOrder = await Order.findByIdAndUpdate(
     id,
@@ -58,7 +66,11 @@ orderController.getAllOrders = catchAsync(async (req, res, next) => {
   const totalPages = Math.ceil(count / limit);
   const offset = limit * (page - 1);
 
-  let allOrders = await Order.find(filterCriteria).skip(offset).limit(limit);
+  let allOrders = await Order.find(filterCriteria)
+    .skip(offset)
+    .limit(limit)
+    .populate("userId")
+    .populate("products._id");
 
   sendResponse(
     res,
@@ -73,7 +85,10 @@ orderController.getAllOrders = catchAsync(async (req, res, next) => {
 orderController.getSingleUserOrders = catchAsync(async (req, res, next) => {
   const id = req.params.userId;
   console.log(req.user);
-  const orders = await Order.find({ userId: id });
+  const orders = await Order.find({ userId: id })
+    .populate("userId")
+    .populate("products._id");
+
   sendResponse(
     res,
     200,
