@@ -32,7 +32,7 @@ router.post(
 router.get("/me", authentication.loginRequired, userController.getCurrentUser);
 
 /**
- * @route GET /user/:userId
+ * @route GET /users/:userId
  * @description Get user info
  * @body { email, password }
  * @access Login required
@@ -45,6 +45,14 @@ router.get(
   ]),
   userController.getSingleUser
 );
+
+/**
+ * @route GET /users
+ * @description Get all users
+ * @body { email, password }
+ * @access Login required
+ */
+router.get("/", authentication.loginRequired, userController.getAllUsers);
 
 /**
  * @route PUT /user/:userId

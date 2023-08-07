@@ -55,6 +55,47 @@ userController.getSingleUser = catchAsync(async (req, res, next) => {
   sendResponse(res, 200, true, user, null, "Get current user successful");
 });
 
+userController.getAllUsers = catchAsync(async (req, res, next) => {
+  let { page, limit, ...filter } = { ...req.query };
+  page = parseInt(page) || 1;
+  limit = parseInt(limit) || 10;
+
+  const filterConditions = [{ isDeleted: false }];
+
+  if (filter.name) {
+    filterConditions.push({ name: { $regex: new RegExp(filter.name, "i") } });
+    delete filter.name;
+  }
+
+  if (filter.email) {
+    filterConditions.push({ email: { $regex: new RegExp(filter.email, "i") } });
+    delete filter.email;
+  }
+
+  if (Object.keys(filter).length > 0) {
+    filterConditions.push({ ...filter });
+  }
+
+  const filterCriteria = filterConditions.length
+    ? { $and: filterConditions }
+    : {};
+
+  const count = await User.countDocuments(filterConditions);
+  const totalPages = Math.ceil(count / limit);
+  const offset = limit * (page - 1);
+
+  let users = await User.find(filterCriteria).skip(offset).limit(limit);
+  console.log(filterCriteria);
+  sendResponse(
+    res,
+    200,
+    true,
+    { users, totalPages, count },
+    null,
+    "Get All Users Success"
+  );
+});
+
 userController.updateUserById = catchAsync(async (req, res, next) => {
   const userId = req.params.userId;
   const info = req.body;

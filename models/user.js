@@ -13,7 +13,8 @@ const userSchema = mongoose.Schema(
     },
     password: { type: String, required: true, minlength: 3, maxlength: 1024 },
     address: { type: String, required: false, minlength: 3, maxlength: 1024 },
-    phone: { type: Number, required: false, maxlength: 10 }
+    phone: { type: Number, required: false, maxlength: 10 },
+    isDeleted: { type: Boolean, enum: [true, false], default: false }
   },
   {
     timestamps: true
