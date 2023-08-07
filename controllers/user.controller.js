@@ -60,7 +60,7 @@ userController.getAllUsers = catchAsync(async (req, res, next) => {
   page = parseInt(page) || 1;
   limit = parseInt(limit) || 10;
 
-  const filterConditions = [{ isDeleted: false }];
+  const filterConditions = [];
 
   if (filter.name) {
     filterConditions.push({ name: { $regex: new RegExp(filter.name, "i") } });
