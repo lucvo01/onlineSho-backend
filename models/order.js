@@ -15,8 +15,10 @@ const orderSchema = new mongoose.Schema(
     subtotal: { type: Number, required: true },
     email: { type: String, required: true },
     phone: { type: Number, required: true },
-    shipping: { type: Object, required: true },
-    delivery_status: { type: String, default: "pending" },
+    address: { type: String, required: true },
+    state: { type: String, required: true },
+    city: { type: String, required: true },
+    delivery_status: { type: String, default: "Pending" },
     payment_method: { type: String, required: true },
     payment_status: {
       type: String,

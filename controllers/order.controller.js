@@ -19,7 +19,9 @@ orderController.updateOrder = catchAsync(async (req, res, next) => {
   const {
     email,
     phone,
-    shipping,
+    address,
+    state,
+    city,
     delivery_status,
     payment_method,
     payment_status
