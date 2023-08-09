@@ -10,10 +10,13 @@ const createProduct = (numberOfProducts) => {
   numberOfProducts = parseInt(numberOfProducts);
   console.log("Creating Products");
 
+  const categories = ["shoes", "shirt", "pants"];
   let products = [];
 
   for (let i = 0; i < numberOfProducts; i++) {
+     const category = categories[Math.floor(Math.random() * 3)];
     const product = {
+      category: category,
       name: faker.commerce.productName(),
       description: faker.lorem.paragraph({ min: 1, max: 3 }),
       price: faker.number.float({ min: 100, max: 200, precision: 0.01 }),
