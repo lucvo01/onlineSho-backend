@@ -11,7 +11,6 @@ const orderSchema = new mongoose.Schema(
         quantity: { type: Number, default: 1 }
       }
     ],
-    // cartTotal: { type: Number, required: true },
     subtotal: { type: Number, required: true },
     email: { type: String, required: true },
     phone: { type: Number, required: true },
