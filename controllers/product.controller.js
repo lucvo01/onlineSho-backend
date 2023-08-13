@@ -60,35 +60,35 @@ productController.getAllProducts = catchAsync(async (req, res, next) => {
 
   const filterConditions = [{ isDeleted: false }];
 
-  // if (filter.name) {
-  //   filterConditions.push({ name: { $regex: new RegExp(filter.name, "i") } });
-  //   delete filter.name;
-  // }
-  // if (filter.gender) {
-  //   filterConditions.push({
-  //     gender: { $regex: new RegExp(`^${filter.gender}$`, "i") }
-  //   });
-  //   delete filter.gender;
-  // }
+  if (filter.name) {
+    filterConditions.push({ name: { $regex: new RegExp(filter.name, "i") } });
+    delete filter.name;
+  }
+  if (filter.gender) {
+    filterConditions.push({
+      gender: { $regex: new RegExp(`^${filter.gender}$`, "i") }
+    });
+    delete filter.gender;
+  }
   if (filter.category) {
     filterConditions.push({
-      category: { $regex: new RegExp(filter.category, "i") }
+      category: { $regex: new RegExp(`^${filter.category}$`, "i") }
     });
     delete filter.category;
   }
 
-  // if (
-  //   filter.priceRange &&
-  //   Array.isArray(filter.priceRange) &&
-  //   filter.priceRange.length === 2
-  // ) {
-  //   const [minPrice, maxPrice] = filter.priceRange;
-  //   const priceFilter = {};
-  //   if (!isNaN(minPrice)) priceFilter.$gte = parseInt(minPrice);
-  //   if (!isNaN(maxPrice)) priceFilter.$lte = parseInt(maxPrice);
-  //   filterConditions.push({ price: priceFilter });
-  //   delete filter.priceRange;
-  // }
+  if (
+    filter.priceRange &&
+    Array.isArray(filter.priceRange) &&
+    filter.priceRange.length === 2
+  ) {
+    const [minPrice, maxPrice] = filter.priceRange;
+    const priceFilter = {};
+    if (!isNaN(minPrice)) priceFilter.$gte = parseInt(minPrice);
+    if (!isNaN(maxPrice)) priceFilter.$lte = parseInt(maxPrice);
+    filterConditions.push({ price: priceFilter });
+    delete filter.priceRange;
+  }
 
   if (Object.keys(filter).length > 0) {
     filterConditions.push({ ...filter });
