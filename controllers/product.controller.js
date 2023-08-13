@@ -20,7 +20,7 @@ productController.createProduct = catchAsync(async (req, res, next) => {
     name,
     description,
     price,
-    image: uploadResponse
+    image: uploadResponse.url
   });
   await product.save();
   sendResponse(res, 200, true, product, null, "Create Product Success");
@@ -39,27 +39,18 @@ productController.deleteProduct = catchAsync(async (req, res, next) => {
 
 productController.updateProduct = catchAsync(async (req, res, next) => {
   const id = req.params.productId;
-  const { name, description, price, image } = req.body;
 
-  const uploadResponse = image;
-  if (image) {
-    uploadResponse = await cloudinary.uploader.upload(image, {
-      upload_preset: "online_shop"
-    });
-  }
+  let product = await Product.findById(id);
+  const allows = ["name", "description", "price", "image"];
 
-  const updatedProduct = await Product.findByIdAndUpdate(
-    id,
-    {
-      name,
-      description,
-      price
-      // image: uploadResponse
-    },
-    { new: true }
-  );
-  await updatedProduct.save();
-  sendResponse(res, 200, true, updatedProduct, null, "Update Product Success");
+  allows.forEach((field) => {
+    if (req.body[field] !== undefined) {
+      product[field] = req.body[field];
+    }
+  });
+
+  await product.save();
+  sendResponse(res, 200, true, product, null, "Update Product Success");
 });
 
 productController.getAllProducts = catchAsync(async (req, res, next) => {
