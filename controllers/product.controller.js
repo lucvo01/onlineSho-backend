@@ -66,13 +66,13 @@ productController.getAllProducts = catchAsync(async (req, res, next) => {
   }
   if (filter.gender) {
     filterConditions.push({
-      gender: { $regex: new RegExp(`^${filter.gender}$`, "i") }
+      gender: { $regex: new RegExp(filter.gender, "i") }
     });
     delete filter.gender;
   }
   if (filter.category) {
     filterConditions.push({
-      category: { $regex: new RegExp(`^${filter.category}$`, "i") }
+      category: { $regex: new RegExp(filter.category, "i") }
     });
     delete filter.category;
   }
@@ -97,6 +97,7 @@ productController.getAllProducts = catchAsync(async (req, res, next) => {
   const filterCriteria = filterConditions.length
     ? { $and: filterConditions }
     : {};
+
   console.log(filterConditions);
   const count = await Product.countDocuments(filterCriteria);
   console.log("count", count);
