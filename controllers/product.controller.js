@@ -64,15 +64,15 @@ productController.getAllProducts = catchAsync(async (req, res, next) => {
   //   filterConditions.push({ name: { $regex: new RegExp(filter.name, "i") } });
   //   delete filter.name;
   // }
-  if (filter.gender) {
-    filterConditions.push({
-      gender: { $regex: new RegExp(`^${filter.gender}$`, "i") }
-    });
-    delete filter.gender;
-  }
+  // if (filter.gender) {
+  //   filterConditions.push({
+  //     gender: { $regex: new RegExp(`^${filter.gender}$`, "i") }
+  //   });
+  //   delete filter.gender;
+  // }
   if (filter.category) {
     filterConditions.push({
-      category: { $regex: new RegExp(`^${filter.category}$`, "i") }
+      category: { $regex: new RegExp(filter.category, "i") }
     });
     delete filter.category;
   }
