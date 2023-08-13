@@ -7,20 +7,20 @@ const { param } = require("../routes/product.api.js");
 const productController = {};
 
 productController.createProduct = catchAsync(async (req, res, next) => {
-  const { name, description, price } = req.body;
+  const { name, description, price, image } = req.body;
 
-  let uploadResponse = null;
-  if (req.file) {
-    uploadResponse = await cloudinary.uploader.upload(req.file.path, {
-      upload_preset: "online_shop"
-    });
-  }
+  // let uploadResponse = null;
+  // if (req.file) {
+  //   uploadResponse = await cloudinary.uploader.upload(req.file.path, {
+  //     upload_preset: "online_shop"
+  //   });
+  // }
 
   const product = await Product.create({
     name,
     description,
     price,
-    image: uploadResponse.url
+    image
   });
   await product.save();
   sendResponse(res, 200, true, product, null, "Create Product Success");
