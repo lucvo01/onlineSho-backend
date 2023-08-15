@@ -7,7 +7,7 @@ const { param } = require("../routes/product.api.js");
 const productController = {};
 
 productController.createProduct = catchAsync(async (req, res, next) => {
-  const { name, description, price, image } = req.body;
+  const { name, description, price, category, gender, image } = req.body;
 
   // let uploadResponse = null;
   // if (req.file) {
@@ -19,6 +19,8 @@ productController.createProduct = catchAsync(async (req, res, next) => {
   const product = await Product.create({
     name,
     description,
+    category,
+    gender,
     price,
     image
   });
@@ -41,7 +43,14 @@ productController.updateProduct = catchAsync(async (req, res, next) => {
   const id = req.params.productId;
 
   let product = await Product.findById(id);
-  const allows = ["name", "description", "price", "image"];
+  const allows = [
+    "name",
+    "description",
+    "image",
+    "category",
+    "gender",
+    "price"
+  ];
 
   allows.forEach((field) => {
     if (req.body[field] !== undefined) {
@@ -59,7 +68,7 @@ productController.getAllProducts = catchAsync(async (req, res, next) => {
   limit = parseInt(limit) || 10;
 
   // const filterConditions = [{ isDeleted: false }];
-  const filterConditions = [];
+  const filterConditions = [{ isDeleted: false }];
 
   if (filter.name) {
     filterConditions.push({ name: { $regex: new RegExp(filter.name, "i") } });
