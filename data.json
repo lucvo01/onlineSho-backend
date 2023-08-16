@@ -610,26 +610,6 @@
     "isDeleted": false
   },
   {
-    "id": "22368",
-    "gender": "Men",
-    "category": "Tshirts",
-    "name": "Ed Hardy Men Diving Dragon Peach T-Shirt",
-    "image": "http://assets.myntassets.com/v1/images/style/properties/1e0c3654bcc066d6b3c05ec89340c75c_images.jpg",
-    "description": "Aliquam blanditiis harum illum delectus enim. Maxime ex laborum nostrum placeat dolorum id earum non. Reprehenderit cupiditate quod aperiam.",
-    "price": 195.15,
-    "isDeleted": false
-  },
-  {
-    "id": "2078",
-    "gender": "Women",
-    "category": "Tshirts",
-    "name": "ADIDAS Women Fitted Black T-shirt",
-    "image": "http://assets.myntassets.com/v1/images/style/properties/a929e1e10469c87a8336418c18e9bef8_images.jpg",
-    "description": "Aliquam blanditiis harum illum delectus enim. Maxime ex laborum nostrum placeat dolorum id earum non. Reprehenderit cupiditate quod aperiam.",
-    "price": 178.62,
-    "isDeleted": false
-  },
-  {
     "id": "49665",
     "gender": "Men",
     "category": "Sunglasses",
@@ -650,16 +630,6 @@
     "isDeleted": false
   },
   {
-    "id": "19115",
-    "gender": "Men",
-    "category": "Tshirts",
-    "name": "Campbell Men Pack of 3 Solid Tshirts",
-    "image": "http://assets.myntassets.com/v1/images/style/properties/403337702c6d86183a4f4317661cebb2_images.jpg",
-    "description": "Aliquam blanditiis harum illum delectus enim. Maxime ex laborum nostrum placeat dolorum id earum non. Reprehenderit cupiditate quod aperiam.",
-    "price": 134.55,
-    "isDeleted": false
-  },
-  {
     "id": "28460",
     "gender": "Women",
     "category": "Shorts",
@@ -667,16 +637,6 @@
     "image": "http://assets.myntassets.com/v1/images/style/properties/44f0716e5b5d34fff6c4230113004cab_images.jpg",
     "description": "Aliquam blanditiis harum illum delectus enim. Maxime ex laborum nostrum placeat dolorum id earum non. Reprehenderit cupiditate quod aperiam.",
     "price": 164.41,
-    "isDeleted": false
-  },
-  {
-    "id": "27428",
-    "gender": "Women",
-    "category": "Tshirts",
-    "name": "Jockey Women Black V-neck T-Shirt",
-    "image": "http://assets.myntassets.com/v1/images/style/properties/f4f1be177d017ef741aefbb48925e4b7_images.jpg",
-    "description": "Aliquam blanditiis harum illum delectus enim. Maxime ex laborum nostrum placeat dolorum id earum non. Reprehenderit cupiditate quod aperiam.",
-    "price": 122.46,
     "isDeleted": false
   },
   {
@@ -750,16 +710,6 @@
     "isDeleted": false
   },
   {
-    "id": "14097",
-    "gender": "Men",
-    "category": "Tshirts",
-    "name": "Flying Machine Men Blue Polo Tshirts",
-    "image": "http://assets.myntassets.com/v1/images/style/properties/9e1e09898d71cb1e3cb46a232eda4617_images.jpg",
-    "description": "Aliquam blanditiis harum illum delectus enim. Maxime ex laborum nostrum placeat dolorum id earum non. Reprehenderit cupiditate quod aperiam.",
-    "price": 105.78,
-    "isDeleted": false
-  },
-  {
     "id": "15145",
     "gender": "Men",
     "category": "Shirts",
@@ -767,26 +717,6 @@
     "image": "http://assets.myntassets.com/v1/images/style/properties/5cd6afd70f89785225e1c0543d8f55d4_images.jpg",
     "description": "Aliquam blanditiis harum illum delectus enim. Maxime ex laborum nostrum placeat dolorum id earum non. Reprehenderit cupiditate quod aperiam.",
     "price": 171.06,
-    "isDeleted": false
-  },
-  {
-    "id": "6245",
-    "gender": "Men",
-    "category": "Tshirts",
-    "name": "UCB Men's Contrast Logo Grey T-shirt",
-    "image": "http://assets.myntassets.com/v1/images/style/properties/95703660cfb4a09a17cf12fe68d1dd6a_images.jpg",
-    "description": "Aliquam blanditiis harum illum delectus enim. Maxime ex laborum nostrum placeat dolorum id earum non. Reprehenderit cupiditate quod aperiam.",
-    "price": 143.72,
-    "isDeleted": false
-  },
-  {
-    "id": "19788",
-    "gender": "Men",
-    "category": "Tshirts",
-    "name": "U.S. Polo Assn. Men Solid Green Tshirt",
-    "image": "http://assets.myntassets.com/v1/images/style/properties/41b8c79966d01c7427527372924fe532_images.jpg",
-    "description": "Aliquam blanditiis harum illum delectus enim. Maxime ex laborum nostrum placeat dolorum id earum non. Reprehenderit cupiditate quod aperiam.",
-    "price": 198.97,
     "isDeleted": false
   },
   {
@@ -800,46 +730,6 @@
     "isDeleted": false
   },
   {
-    "id": "10053",
-    "gender": "Women",
-    "category": "Tshirts",
-    "name": "Gini And Jony Vini Romper Pink T-Shirts",
-    "image": "http://assets.myntassets.com/v1/images/style/properties/25e4db79314ebf7ae946ec496f7cced0_images.jpg",
-    "description": "Aliquam blanditiis harum illum delectus enim. Maxime ex laborum nostrum placeat dolorum id earum non. Reprehenderit cupiditate quod aperiam.",
-    "price": 198.18,
-    "isDeleted": false
-  },
-  {
-    "id": "24266",
-    "gender": "Men",
-    "category": "Tshirts",
-    "name": "Quiksilver Men Red T-shirt",
-    "image": "http://assets.myntassets.com/v1/images/style/properties/59d716026f1bd14baa30b7af3dac58fa_images.jpg",
-    "description": "Aliquam blanditiis harum illum delectus enim. Maxime ex laborum nostrum placeat dolorum id earum non. Reprehenderit cupiditate quod aperiam.",
-    "price": 126.32,
-    "isDeleted": false
-  },
-  {
-    "id": "38639",
-    "gender": "Men",
-    "category": "Tshirts",
-    "name": "Nike Men Blue Cricket Blue Polo Tshirt",
-    "image": "http://assets.myntassets.com/v1/images/style/properties/ddedda401661b0c91b3eeb715b8198c4_images.jpg",
-    "description": "Aliquam blanditiis harum illum delectus enim. Maxime ex laborum nostrum placeat dolorum id earum non. Reprehenderit cupiditate quod aperiam.",
-    "price": 184.84,
-    "isDeleted": false
-  },
-  {
-    "id": "17276",
-    "gender": "Men",
-    "category": "Tshirts",
-    "name": "U.S. Polo Assn. Men Printed Mustard Tshirt",
-    "image": "http://assets.myntassets.com/v1/images/style/properties/2c1069672e33545ecf7c3bdcf7c276d8_images.jpg",
-    "description": "Aliquam blanditiis harum illum delectus enim. Maxime ex laborum nostrum placeat dolorum id earum non. Reprehenderit cupiditate quod aperiam.",
-    "price": 161.51,
-    "isDeleted": false
-  },
-  {
     "id": "9669",
     "gender": "Men",
     "category": "Shirts",
@@ -847,26 +737,6 @@
     "image": "http://assets.myntassets.com/v1/images/style/properties/5824da2955055c4b2893259393ebac06_images.jpg",
     "description": "Aliquam blanditiis harum illum delectus enim. Maxime ex laborum nostrum placeat dolorum id earum non. Reprehenderit cupiditate quod aperiam.",
     "price": 194.18,
-    "isDeleted": false
-  },
-  {
-    "id": "31586",
-    "gender": "Men",
-    "category": "Tshirts",
-    "name": "Mark Taylor Men Printed Yellow T-shirt",
-    "image": "http://assets.myntassets.com/v1/images/style/properties/7149a1d4f836e3abf6f9f14b52f34354_images.jpg",
-    "description": "Aliquam blanditiis harum illum delectus enim. Maxime ex laborum nostrum placeat dolorum id earum non. Reprehenderit cupiditate quod aperiam.",
-    "price": 176.55,
-    "isDeleted": false
-  },
-  {
-    "id": "3353",
-    "gender": "Men",
-    "category": "Tshirts",
-    "name": "Myntra Men's I am a nice guy Navy Blue T-shirt",
-    "image": "http://assets.myntassets.com/v1/images/style/properties/15fcfc98e24bdb3e239d94bae48bfe72_images.jpg",
-    "description": "Aliquam blanditiis harum illum delectus enim. Maxime ex laborum nostrum placeat dolorum id earum non. Reprehenderit cupiditate quod aperiam.",
-    "price": 107.6,
     "isDeleted": false
   },
   {
@@ -1120,16 +990,6 @@
     "isDeleted": false
   },
   {
-    "id": "54979",
-    "gender": "Women",
-    "category": "Shirts",
-    "name": "Femella Women White Printed Shirt",
-    "image": "http://assets.myntassets.com/v1/images/style/properties/Femella-Women-White-Printed-Shirt_b989f4b502f7867f579a5292267c0621_images.jpg",
-    "description": "Aliquam blanditiis harum illum delectus enim. Maxime ex laborum nostrum placeat dolorum id earum non. Reprehenderit cupiditate quod aperiam.",
-    "price": 144.23,
-    "isDeleted": false
-  },
-  {
     "id": "17222",
     "gender": "Men",
     "category": "Sunglasses",
@@ -1147,46 +1007,6 @@
     "image": "http://assets.myntassets.com/v1/images/style/properties/011e7c29b1e76aae12a3e266281e2858_images.jpg",
     "description": "Aliquam blanditiis harum illum delectus enim. Maxime ex laborum nostrum placeat dolorum id earum non. Reprehenderit cupiditate quod aperiam.",
     "price": 160.38,
-    "isDeleted": false
-  },
-  {
-    "id": "14661",
-    "gender": "Men",
-    "category": "Shirts",
-    "name": "Basics Men Navy Slim Fit Checked Shirt",
-    "image": "http://assets.myntassets.com/v1/images/style/properties/52cf18eacd56e4eecce07b23910205f1_images.jpg",
-    "description": "Aliquam blanditiis harum illum delectus enim. Maxime ex laborum nostrum placeat dolorum id earum non. Reprehenderit cupiditate quod aperiam.",
-    "price": 170.33,
-    "isDeleted": false
-  },
-  {
-    "id": "18890",
-    "gender": "Women",
-    "category": "Shirts",
-    "name": "Arrow Woman Tyra Purple Shirt",
-    "image": "http://assets.myntassets.com/v1/images/style/properties/877350d2da720803e9873ed14631d428_images.jpg",
-    "description": "Aliquam blanditiis harum illum delectus enim. Maxime ex laborum nostrum placeat dolorum id earum non. Reprehenderit cupiditate quod aperiam.",
-    "price": 170.64,
-    "isDeleted": false
-  },
-  {
-    "id": "31142",
-    "gender": "Men",
-    "category": "Shirts",
-    "name": "John Miller Men Check Orange Shirt",
-    "image": "http://assets.myntassets.com/v1/images/style/properties/d7b9e64675ee1886484481433b0220fe_images.jpg",
-    "description": "Aliquam blanditiis harum illum delectus enim. Maxime ex laborum nostrum placeat dolorum id earum non. Reprehenderit cupiditate quod aperiam.",
-    "price": 188.29,
-    "isDeleted": false
-  },
-  {
-    "id": "19728",
-    "gender": "Women",
-    "category": "Shirts",
-    "name": "United Colors of Benetton Women Solid Purple Shirt",
-    "image": "http://assets.myntassets.com/v1/images/style/properties/faba1b9df4905d09c93834faa5de2bc9_images.jpg",
-    "description": "Aliquam blanditiis harum illum delectus enim. Maxime ex laborum nostrum placeat dolorum id earum non. Reprehenderit cupiditate quod aperiam.",
-    "price": 186.44,
     "isDeleted": false
   },
   {
@@ -1210,26 +1030,6 @@
     "isDeleted": false
   },
   {
-    "id": "14037",
-    "gender": "Men",
-    "category": "Shirts",
-    "name": "Flying Machine Men Check Blue Shirts",
-    "image": "http://assets.myntassets.com/v1/images/style/properties/c2984f58de4e666b5a3fe6a3b8e36f23_images.jpg",
-    "description": "Aliquam blanditiis harum illum delectus enim. Maxime ex laborum nostrum placeat dolorum id earum non. Reprehenderit cupiditate quod aperiam.",
-    "price": 165.21,
-    "isDeleted": false
-  },
-  {
-    "id": "20030",
-    "gender": "Men",
-    "category": "Shirts",
-    "name": "United Colors of Benetton Men Solid Blue Shirt",
-    "image": "http://assets.myntassets.com/v1/images/style/properties/08a67a20ca762256f7d9ef8fac4a4763_images.jpg",
-    "description": "Aliquam blanditiis harum illum delectus enim. Maxime ex laborum nostrum placeat dolorum id earum non. Reprehenderit cupiditate quod aperiam.",
-    "price": 103.94,
-    "isDeleted": false
-  },
-  {
     "id": "27215",
     "gender": "Men",
     "category": "Shorts",
@@ -1240,71 +1040,11 @@
     "isDeleted": false
   },
   {
-    "id": "39780",
-    "gender": "Men",
-    "category": "Shirts",
-    "name": "Peter England Men Yellow Casual Shirts",
-    "image": "http://assets.myntassets.com/v1/images/style/properties/d035563180c4054fb776be3441f63d07_images.jpg",
-    "description": "Aliquam blanditiis harum illum delectus enim. Maxime ex laborum nostrum placeat dolorum id earum non. Reprehenderit cupiditate quod aperiam.",
-    "price": 120.21,
-    "isDeleted": false
-  },
-  {
-    "id": "9602",
-    "gender": "Men",
-    "category": "Shirts",
-    "name": "Scullers Men Scul White & Red Shirt",
-    "image": "http://assets.myntassets.com/v1/images/style/properties/aae2b9f9d775f4840c2984ffcb370f3d_images.jpg",
-    "description": "Aliquam blanditiis harum illum delectus enim. Maxime ex laborum nostrum placeat dolorum id earum non. Reprehenderit cupiditate quod aperiam.",
-    "price": 123,
-    "isDeleted": false
-  },
-  {
-    "id": "23028",
-    "gender": "Men",
-    "category": "Shirts",
-    "name": "Arrow Men Blue Striped Shirt",
-    "image": "http://assets.myntassets.com/v1/images/style/properties/7d8d482713ec3ae6fd651599bca43a8b_images.jpg",
-    "description": "Aliquam blanditiis harum illum delectus enim. Maxime ex laborum nostrum placeat dolorum id earum non. Reprehenderit cupiditate quod aperiam.",
-    "price": 1,
-    "isDeleted": false
-  },
-  {
-    "id": "51408",
-    "gender": "Men",
-    "category": "Shirts",
-    "name": "Myntra Men Blue and White Check Shirt",
-    "image": "http://assets.myntassets.com/v1/images/style/properties/663acf01b760ab161d4dd31ecbff0b95_images.jpg",
-    "description": "Aliquam blanditiis harum illum delectus enim. Maxime ex laborum nostrum placeat dolorum id earum non. Reprehenderit cupiditate quod aperiam.",
-    "price": 1,
-    "isDeleted": false
-  },
-  {
-    "id": "8186",
-    "gender": "Men",
-    "category": "Shirts",
-    "name": "Locomotive Men Check Lai Grey Shirts",
-    "image": "http://assets.myntassets.com/v1/images/style/properties/09ea8b24136c84653810e7e1bc1815f7_images.jpg",
-    "description": "Aliquam blanditiis harum illum delectus enim. Maxime ex laborum nostrum placeat dolorum id earum non. Reprehenderit cupiditate quod aperiam.",
-    "price": 2,
-    "isDeleted": false
-  },
-  {
     "id": "30269",
     "gender": "Men",
     "category": "Sunglasses",
     "name": "Speedo Men Sheet Sunglasses",
     "image": "http://assets.myntassets.com/v1/images/style/properties/47bcbb24bd8b2e066437d691f2bfd139_images.jpg",
-    "description": "Aliquam blanditiis harum illum delectus enim. Maxime ex laborum nostrum placeat dolorum id earum non. Reprehenderit cupiditate quod aperiam.",
-    "price": 1,
-    "isDeleted": false
-  },
-  {
-    "id": "48373",
-    "gender": "Men",
-    "category": "Shirts",
-    "name": "French Connection Men White & Purple Check Shirt",
-    "image": "http://assets.myntassets.com/v1/images/style/properties/8edbbf308f7ed049347d3951c81b2de4_images.jpg",
     "description": "Aliquam blanditiis harum illum delectus enim. Maxime ex laborum nostrum placeat dolorum id earum non. Reprehenderit cupiditate quod aperiam.",
     "price": 1,
     "isDeleted": false
@@ -1330,26 +1070,6 @@
     "isDeleted": false
   },
   {
-    "id": "15912",
-    "gender": "Men",
-    "category": "Shirts",
-    "name": "Black Coffee Men Stripes Blue Shirt",
-    "image": "http://assets.myntassets.com/v1/images/style/properties/90481395edbb949eae0d91c32512ad7b_images.jpg",
-    "description": "Aliquam blanditiis harum illum delectus enim. Maxime ex laborum nostrum placeat dolorum id earum non. Reprehenderit cupiditate quod aperiam.",
-    "price": 104.09,
-    "isDeleted": false
-  },
-  {
-    "id": "9266",
-    "gender": "Men",
-    "category": "Shirts",
-    "name": "Scullers Men Scul Blue Shirts",
-    "image": "http://assets.myntassets.com/v1/images/style/properties/eb4f7552fb100853af1645329b27d5c6_images.jpg",
-    "description": "Aliquam blanditiis harum illum delectus enim. Maxime ex laborum nostrum placeat dolorum id earum non. Reprehenderit cupiditate quod aperiam.",
-    "price": 165.93,
-    "isDeleted": false
-  },
-  {
     "id": "48387",
     "gender": "Men",
     "category": "Jeans",
@@ -1360,16 +1080,6 @@
     "isDeleted": false
   },
   {
-    "id": "19717",
-    "gender": "Men",
-    "category": "Shirts",
-    "name": "United Colors of Benetton Men Check Blue Shirt",
-    "image": "http://assets.myntassets.com/v1/images/style/properties/ba49e9aa77181edbc3ffdeeda6aa9f8e_images.jpg",
-    "description": "Aliquam blanditiis harum illum delectus enim. Maxime ex laborum nostrum placeat dolorum id earum non. Reprehenderit cupiditate quod aperiam.",
-    "price": 160.16,
-    "isDeleted": false
-  },
-  {
     "id": "27018",
     "gender": "Women",
     "category": "Jeans",
@@ -1377,16 +1087,6 @@
     "image": "http://assets.myntassets.com/v1/images/style/properties/c3c02ca9eff02b8a9aed552288fe5914_images.jpg",
     "description": "Aliquam blanditiis harum illum delectus enim. Maxime ex laborum nostrum placeat dolorum id earum non. Reprehenderit cupiditate quod aperiam.",
     "price": 174.19,
-    "isDeleted": false
-  },
-  {
-    "id": "8724",
-    "gender": "Men",
-    "category": "Shirts",
-    "name": "Indigo Nation Men Checks Red Shirts",
-    "image": "http://assets.myntassets.com/v1/images/style/properties/1c08078104bd5c3acd6cb0a872ded330_images.jpg",
-    "description": "Aliquam blanditiis harum illum delectus enim. Maxime ex laborum nostrum placeat dolorum id earum non. Reprehenderit cupiditate quod aperiam.",
-    "price": 159.06,
     "isDeleted": false
   },
   {
@@ -1420,16 +1120,6 @@
     "isDeleted": false
   },
   {
-    "id": "27212",
-    "gender": "Men",
-    "category": "Shirts",
-    "name": "Doodle Kids Boy Striped Blue Shirt",
-    "image": "http://assets.myntassets.com/v1/images/style/properties/f3ea1bf0c6b6862c69a0dc95aa0c7d25_images.jpg",
-    "description": "Aliquam blanditiis harum illum delectus enim. Maxime ex laborum nostrum placeat dolorum id earum non. Reprehenderit cupiditate quod aperiam.",
-    "price": 105.24,
-    "isDeleted": false
-  },
-  {
     "id": "27020",
     "gender": "Women",
     "category": "Jeans",
@@ -1437,26 +1127,6 @@
     "image": "http://assets.myntassets.com/v1/images/style/properties/Jealous-21-Women-Washed-Navy-Blue-Jeans_3b959991273c8a02d33aa71c74ff8877_images.jpg",
     "description": "Aliquam blanditiis harum illum delectus enim. Maxime ex laborum nostrum placeat dolorum id earum non. Reprehenderit cupiditate quod aperiam.",
     "price": 116.06,
-    "isDeleted": false
-  },
-  {
-    "id": "10490",
-    "gender": "Men",
-    "category": "Shirts",
-    "name": "Flying Machine Men HS Blue Shirts",
-    "image": "http://assets.myntassets.com/v1/images/style/properties/841b253d83d3c33eabc627a5a0d971ff_images.jpg",
-    "description": "Aliquam blanditiis harum illum delectus enim. Maxime ex laborum nostrum placeat dolorum id earum non. Reprehenderit cupiditate quod aperiam.",
-    "price": 122.99,
-    "isDeleted": false
-  },
-  {
-    "id": "16303",
-    "gender": "Men",
-    "category": "Shirts",
-    "name": "Peter England Men Check Navy Blue Shirt",
-    "image": "http://assets.myntassets.com/v1/images/style/properties/bacf77cf4f2db77c8870a3c44206a684_images.jpg",
-    "description": "Aliquam blanditiis harum illum delectus enim. Maxime ex laborum nostrum placeat dolorum id earum non. Reprehenderit cupiditate quod aperiam.",
-    "price": 189.15,
     "isDeleted": false
   },
   {
@@ -1480,16 +1150,6 @@
     "isDeleted": false
   },
   {
-    "id": "14666",
-    "gender": "Men",
-    "category": "Shirts",
-    "name": "Basics Men Red Slim Fit Checked Shirt",
-    "image": "http://assets.myntassets.com/v1/images/style/properties/68e7811deafaee1ab4295cbaf4765856_images.jpg",
-    "description": "Aliquam blanditiis harum illum delectus enim. Maxime ex laborum nostrum placeat dolorum id earum non. Reprehenderit cupiditate quod aperiam.",
-    "price": 136.98,
-    "isDeleted": false
-  },
-  {
     "id": "17225",
     "gender": "Men",
     "category": "Sunglasses",
@@ -1497,16 +1157,6 @@
     "image": "http://assets.myntassets.com/v1/images/style/properties/573f3bf7f0c9dfbd795a3211f4897563_images.jpg",
     "description": "Aliquam blanditiis harum illum delectus enim. Maxime ex laborum nostrum placeat dolorum id earum non. Reprehenderit cupiditate quod aperiam.",
     "price": 139.09,
-    "isDeleted": false
-  },
-  {
-    "id": "51430",
-    "gender": "Men",
-    "category": "Shirts",
-    "name": "Myntra Men Navy Blue & Orange Check Shirt",
-    "image": "http://assets.myntassets.com/v1/images/style/properties/4e6e5fd4386c5118d6c593c6afd46445_images.jpg",
-    "description": "Aliquam blanditiis harum illum delectus enim. Maxime ex laborum nostrum placeat dolorum id earum non. Reprehenderit cupiditate quod aperiam.",
-    "price": 151.83,
     "isDeleted": false
   },
   {
@@ -1540,16 +1190,6 @@
     "isDeleted": false
   },
   {
-    "id": "26106",
-    "gender": "Men",
-    "category": "Shirts",
-    "name": "John Miller Men Striped Purple Shirt",
-    "image": "http://assets.myntassets.com/v1/images/style/properties/5695f6f63af056f11ede4c244f548d62_images.jpg",
-    "description": "Aliquam blanditiis harum illum delectus enim. Maxime ex laborum nostrum placeat dolorum id earum non. Reprehenderit cupiditate quod aperiam.",
-    "price": 173.51,
-    "isDeleted": false
-  },
-  {
     "id": "12333",
     "gender": "Women",
     "category": "Jeans",
@@ -1557,16 +1197,6 @@
     "image": "http://assets.myntassets.com/v1/images/style/properties/3d8ebb1a01134bd612a5765372a4c644_images.jpg",
     "description": "Aliquam blanditiis harum illum delectus enim. Maxime ex laborum nostrum placeat dolorum id earum non. Reprehenderit cupiditate quod aperiam.",
     "price": 117.72,
-    "isDeleted": false
-  },
-  {
-    "id": "16793",
-    "gender": "Men",
-    "category": "Shirts",
-    "name": "Highlander Men Check Blue Shirt",
-    "image": "http://assets.myntassets.com/v1/images/style/properties/3bfee9a84a21304fbd61695bc49cb410_images.jpg",
-    "description": "Aliquam blanditiis harum illum delectus enim. Maxime ex laborum nostrum placeat dolorum id earum non. Reprehenderit cupiditate quod aperiam.",
-    "price": 102.92,
     "isDeleted": false
   },
   {
@@ -1580,46 +1210,6 @@
     "isDeleted": false
   },
   {
-    "id": "39773",
-    "gender": "Men",
-    "category": "Shirts",
-    "name": "Peter England Men Navy Blue Casual Shirt",
-    "image": "http://assets.myntassets.com/v1/images/style/properties/43088e7b11fa5798527505894b21ea95_images.jpg",
-    "description": "Aliquam blanditiis harum illum delectus enim. Maxime ex laborum nostrum placeat dolorum id earum non. Reprehenderit cupiditate quod aperiam.",
-    "price": 126.15,
-    "isDeleted": false
-  },
-  {
-    "id": "11119",
-    "gender": "Men",
-    "category": "Shirts",
-    "name": "Indigo Nation Men Solid White Shirts",
-    "image": "http://assets.myntassets.com/v1/images/style/properties/8b44d758b6c95221b1e9134c225fb446_images.jpg",
-    "description": "Aliquam blanditiis harum illum delectus enim. Maxime ex laborum nostrum placeat dolorum id earum non. Reprehenderit cupiditate quod aperiam.",
-    "price": 105.78,
-    "isDeleted": false
-  },
-  {
-    "id": "33249",
-    "gender": "Men",
-    "category": "Shirts",
-    "name": "Arrow Men Blue Striped Shirt",
-    "image": "http://assets.myntassets.com/v1/images/style/properties/Arrow-Men-Blue-Striped-Shirt_4be987b53f40ae04dca500644ca03832_images.jpg",
-    "description": "Aliquam blanditiis harum illum delectus enim. Maxime ex laborum nostrum placeat dolorum id earum non. Reprehenderit cupiditate quod aperiam.",
-    "price": 137.92,
-    "isDeleted": false
-  },
-  {
-    "id": "8723",
-    "gender": "Men",
-    "category": "Shirts",
-    "name": "Indigo Nation Men Striped Yellow Shirt",
-    "image": "http://assets.myntassets.com/v1/images/style/properties/e6fccb2450cd5b41907af471fd57a070_images.jpg",
-    "description": "Aliquam blanditiis harum illum delectus enim. Maxime ex laborum nostrum placeat dolorum id earum non. Reprehenderit cupiditate quod aperiam.",
-    "price": 143.72,
-    "isDeleted": false
-  },
-  {
     "id": "38231",
     "gender": "Women",
     "category": "Sunglasses",
@@ -1627,56 +1217,6 @@
     "image": "http://assets.myntassets.com/v1/images/style/properties/9d8c0b1f077c6be87fadf1bfeaf3466b_images.jpg",
     "description": "Aliquam blanditiis harum illum delectus enim. Maxime ex laborum nostrum placeat dolorum id earum non. Reprehenderit cupiditate quod aperiam.",
     "price": 161.51,
-    "isDeleted": false
-  },
-  {
-    "id": "15915",
-    "gender": "Men",
-    "category": "Shirts",
-    "name": "Black Coffee Men Check Purple Slim Fit Shirt",
-    "image": "http://assets.myntassets.com/v1/images/style/properties/8b945ee8d1b80ab1166a9bc1207b873f_images.jpg",
-    "description": "Aliquam blanditiis harum illum delectus enim. Maxime ex laborum nostrum placeat dolorum id earum non. Reprehenderit cupiditate quod aperiam.",
-    "price": 109.53,
-    "isDeleted": false
-  },
-  {
-    "id": "51857",
-    "gender": "Men",
-    "category": "Shirts",
-    "name": "Highlander Men  Blue & Beige Check  Shirt",
-    "image": "http://assets.myntassets.com/v1/images/style/properties/48c751fb277a815fbad5c49d1d6eb514_images.jpg",
-    "description": "Aliquam blanditiis harum illum delectus enim. Maxime ex laborum nostrum placeat dolorum id earum non. Reprehenderit cupiditate quod aperiam.",
-    "price": 194.18,
-    "isDeleted": false
-  },
-  {
-    "id": "9261",
-    "gender": "Men",
-    "category": "Shirts",
-    "name": "Mark Taylor Men Red Striped Shirt",
-    "image": "http://assets.myntassets.com/v1/images/style/properties/43cdffcb0d3c87f0b59af298a7fc557c_images.jpg",
-    "description": "Aliquam blanditiis harum illum delectus enim. Maxime ex laborum nostrum placeat dolorum id earum non. Reprehenderit cupiditate quod aperiam.",
-    "price": 107.6,
-    "isDeleted": false
-  },
-  {
-    "id": "8181",
-    "gender": "Men",
-    "category": "Shirts",
-    "name": "Locomotive Men Check Ladislav Purple Shirts",
-    "image": "http://assets.myntassets.com/v1/images/style/properties/c28efc7c216ad0b04df870974ba72860_images.jpg",
-    "description": "Aliquam blanditiis harum illum delectus enim. Maxime ex laborum nostrum placeat dolorum id earum non. Reprehenderit cupiditate quod aperiam.",
-    "price": 134.04,
-    "isDeleted": false
-  },
-  {
-    "id": "48374",
-    "gender": "Men",
-    "category": "Shirts",
-    "name": "French Connection Men Purple & Black Striped Shirt",
-    "image": "http://assets.myntassets.com/v1/images/style/properties/3ea231d34e06cd28483da1d49276c4c1_images.jpg",
-    "description": "Aliquam blanditiis harum illum delectus enim. Maxime ex laborum nostrum placeat dolorum id earum non. Reprehenderit cupiditate quod aperiam.",
-    "price": 199.79,
     "isDeleted": false
   },
   {
@@ -1690,36 +1230,6 @@
     "isDeleted": false
   },
   {
-    "id": "57992",
-    "gender": "Women",
-    "category": "Shirts",
-    "name": "Latin Quarters Women Purple Shirt",
-    "image": "http://assets.myntassets.com/v1/images/style/properties/Latin-Quarters-Women-Purple-Dress_4aeecefe97a1247231b97e88683d4fc0_images.jpg",
-    "description": "Aliquam blanditiis harum illum delectus enim. Maxime ex laborum nostrum placeat dolorum id earum non. Reprehenderit cupiditate quod aperiam.",
-    "price": 121.71,
-    "isDeleted": false
-  },
-  {
-    "id": "10803",
-    "gender": "Men",
-    "category": "Shirts",
-    "name": "Wrangler Men Dodge Broad Accent Check White Shirts",
-    "image": "http://assets.myntassets.com/v1/images/style/properties/9b59fd18735b3dc79370bf2a3f7c5402_images.jpg",
-    "description": "Aliquam blanditiis harum illum delectus enim. Maxime ex laborum nostrum placeat dolorum id earum non. Reprehenderit cupiditate quod aperiam.",
-    "price": 163.86,
-    "isDeleted": false
-  },
-  {
-    "id": "9605",
-    "gender": "Men",
-    "category": "Shirts",
-    "name": "Scullers Men Scul Green White Shirts",
-    "image": "http://assets.myntassets.com/v1/images/style/properties/f91c85bd9a50d18130ccdfae88974685_images.jpg",
-    "description": "Aliquam blanditiis harum illum delectus enim. Maxime ex laborum nostrum placeat dolorum id earum non. Reprehenderit cupiditate quod aperiam.",
-    "price": 102.67,
-    "isDeleted": false
-  },
-  {
     "id": "36732",
     "gender": "Women",
     "category": "Jeans",
@@ -1730,76 +1240,6 @@
     "isDeleted": false
   },
   {
-    "id": "33240",
-    "gender": "Men",
-    "category": "Shirts",
-    "name": "Arrow Men Blue Striped Shirt",
-    "image": "http://assets.myntassets.com/v1/images/style/properties/Arrow-Men-Blue-Striped-Shirt_6fd108d63d0ade4dc7ed090e1ffefd3c_images.jpg",
-    "description": "",
-    "price": 158.41,
-    "isDeleted": false
-  },
-  {
-    "id": "32392",
-    "gender": "Women",
-    "category": "Shirts",
-    "name": "Arrow Woman Grey Shirt",
-    "image": "http://assets.myntassets.com/v1/images/style/properties/0a92155e9512428f384c45267df43c79_images.jpg",
-    "description": "",
-    "price": 163.07,
-    "isDeleted": false
-  },
-  {
-    "id": "41660",
-    "gender": "Men",
-    "category": "Shirts",
-    "name": "Mark Taylor Men Blue Striped Shirt",
-    "image": "http://assets.myntassets.com/v1/images/style/properties/fd1080787a07bc795824b33297197df7_images.jpg",
-    "description": "",
-    "price": 150.8,
-    "isDeleted": false
-  },
-  {
-    "id": "11110",
-    "gender": "Men",
-    "category": "Shirts",
-    "name": "Indigo Nation Men Check White Shirts",
-    "image": "http://assets.myntassets.com/v1/images/style/properties/87e27eb341d44c9015a8bee1a074b1c5_images.jpg",
-    "description": "",
-    "price": 191.56,
-    "isDeleted": false
-  },
-  {
-    "id": "16335",
-    "gender": "Men",
-    "category": "Shirts",
-    "name": "Peter England Men Stripes Navy Blue Shirt",
-    "image": "http://assets.myntassets.com/v1/images/style/properties/aa8b9682624251e7db4e70f63984438d_images.jpg",
-    "description": "",
-    "price": 158.69,
-    "isDeleted": false
-  },
-  {
-    "id": "26792",
-    "gender": "Men",
-    "category": "Shirts",
-    "name": "Arrow Men Blue Striped Slim Fit Shirt",
-    "image": "http://assets.myntassets.com/v1/images/style/properties/Arrow-Men-Blue-Striped-Shirt_ce6eaded379ecbc261dbabc5258c84a4_images.jpg",
-    "description": "",
-    "price": 145.13,
-    "isDeleted": false
-  },
-  {
-    "id": "43305",
-    "gender": "Women",
-    "category": "Shirts",
-    "name": "United Colors of Benetton Women Pink Shirt",
-    "image": "http://assets.myntassets.com/v1/images/style/properties/f9deaff7b5185845e01386f9e71fd5ce_images.jpg",
-    "description": "",
-    "price": 161.95,
-    "isDeleted": false
-  },
-  {
     "id": "16107",
     "gender": "Women",
     "category": "Sunglasses",
@@ -1807,16 +1247,6 @@
     "image": "http://assets.myntassets.com/v1/images/style/properties/381a461424dce0770e3e59110a584822_images.jpg",
     "description": "",
     "price": 105.64,
-    "isDeleted": false
-  },
-  {
-    "id": "8940",
-    "gender": "Men",
-    "category": "Shirts",
-    "name": "Indigo Nation Men Reversible Bling Red Shirts",
-    "image": "http://assets.myntassets.com/v1/images/style/properties/871f555e1b7380855ec22d5e6381716c_images.jpg",
-    "description": "",
-    "price": 161.34,
     "isDeleted": false
   },
   {
@@ -1850,16 +1280,6 @@
     "isDeleted": false
   },
   {
-    "id": "19719",
-    "gender": "Men",
-    "category": "Shirts",
-    "name": "United Colors of Benetton Men Stripes Grey Shirt",
-    "image": "http://assets.myntassets.com/v1/images/style/properties/7a783e9ebd2a7dd7e068ab1bd2badf4b_images.jpg",
-    "description": "",
-    "price": 172.7,
-    "isDeleted": false
-  },
-  {
     "id": "30267",
     "gender": "Men",
     "category": "Sunglasses",
@@ -1867,26 +1287,6 @@
     "image": "http://assets.myntassets.com/v1/images/style/properties/2951bee1f04a4a11aae2d19bb171c1b4_images.jpg",
     "description": "",
     "price": 144.23,
-    "isDeleted": false
-  },
-  {
-    "id": "8188",
-    "gender": "Men",
-    "category": "Shirts",
-    "name": "Locomotive Men Solid Poplin Laidley Purple Shirts",
-    "image": "http://assets.myntassets.com/v1/images/style/properties/d966c754e9392b5f0393301828c71f91_images.jpg",
-    "description": "",
-    "price": 110.74,
-    "isDeleted": false
-  },
-  {
-    "id": "6012",
-    "gender": "Men",
-    "category": "Shirts",
-    "name": "Highlander Men White Casual Checked Slim Fit Shirt",
-    "image": "http://assets.myntassets.com/v1/images/style/properties/0632fefed262f175c3827c06fb6586e8_images.jpg",
-    "description": "",
-    "price": 121.22,
     "isDeleted": false
   },
   {
@@ -1940,26 +1340,6 @@
     "isDeleted": false
   },
   {
-    "id": "9268",
-    "gender": "Men",
-    "category": "Shirts",
-    "name": "Scullers Men White Check Shirt",
-    "image": "http://assets.myntassets.com/v1/images/style/properties/ece8a47407fece07bda02acc0317119c_images.jpg",
-    "description": "",
-    "price": 103.79,
-    "isDeleted": false
-  },
-  {
-    "id": "12305",
-    "gender": "Men",
-    "category": "Shirts",
-    "name": "Genesis Men Check Navy Blue Shirts",
-    "image": "http://assets.myntassets.com/v1/images/style/properties/fb0c64ff2e4b1a40c3423c61c1d57688_images.jpg",
-    "description": "",
-    "price": 135.53,
-    "isDeleted": false
-  },
-  {
     "id": "22590",
     "gender": "Men",
     "category": "Shorts",
@@ -1980,16 +1360,6 @@
     "isDeleted": false
   },
   {
-    "id": "51406",
-    "gender": "Men",
-    "category": "Shirts",
-    "name": "Myntra Men Yellow Striped Shirt",
-    "image": "http://assets.myntassets.com/v1/images/style/properties/Myntra-Men-Yellow-Check-Shirt_bb2ba5acfcbe2309809c595439db7d75_images.jpg",
-    "description": "",
-    "price": 176.59,
-    "isDeleted": false
-  },
-  {
     "id": "17213",
     "gender": "Women",
     "category": "Sunglasses",
@@ -2007,26 +1377,6 @@
     "image": "http://assets.myntassets.com/v1/images/style/properties/ec0c5925ee7281c4e033456b22273ab8_images.jpg",
     "description": "",
     "price": 197.56,
-    "isDeleted": false
-  },
-  {
-    "id": "19726",
-    "gender": "Women",
-    "category": "Shirts",
-    "name": "United Colors of Benetton Women Solid Black Shirt",
-    "image": "http://assets.myntassets.com/v1/images/style/properties/c3a178cd44635015b283b38f4c565859_images.jpg",
-    "description": "",
-    "price": 197.85,
-    "isDeleted": false
-  },
-  {
-    "id": "14039",
-    "gender": "Men",
-    "category": "Shirts",
-    "name": "Flying Machine Men Check Green Shirts",
-    "image": "http://assets.myntassets.com/v1/images/style/properties/3f4c47753110a3f6c093e6bc3e4123df_images.jpg",
-    "description": "",
-    "price": 123,
     "isDeleted": false
   },
   {
@@ -2060,46 +1410,6 @@
     "isDeleted": false
   },
   {
-    "id": "19184",
-    "gender": "Men",
-    "category": "Shirts",
-    "name": "United Colors Of Benetton Men Red Check Shirt",
-    "image": "http://assets.myntassets.com/v1/images/style/properties/07ac24b8f6eaeb18db5db67ed22b7df7_images.jpg",
-    "description": "",
-    "price": 133.41,
-    "isDeleted": false
-  },
-  {
-    "id": "29711",
-    "gender": "Men",
-    "category": "Shirts",
-    "name": "John Miller Men Check Blue Shirt",
-    "image": "http://assets.myntassets.com/v1/images/style/properties/daf1b6b430d1ccb9f639e2166dbd3073_images.jpg",
-    "description": "",
-    "price": 104.09,
-    "isDeleted": false
-  },
-  {
-    "id": "9633",
-    "gender": "Men",
-    "category": "Shirts",
-    "name": "Indigo Nation Men Price catch Blue White Shirts",
-    "image": "http://assets.myntassets.com/v1/images/style/properties/7fc41828fa5e8ddaf799ffa61aea4430_images.jpg",
-    "description": "",
-    "price": 165.93,
-    "isDeleted": false
-  },
-  {
-    "id": "9257",
-    "gender": "Men",
-    "category": "Shirts",
-    "name": "Mark Taylor Men Blue Striped Shirt",
-    "image": "http://assets.myntassets.com/v1/images/style/properties/25e01e080d5bdc4adb90a7ffc847187a_images.jpg",
-    "description": "",
-    "price": 102.56,
-    "isDeleted": false
-  },
-  {
     "id": "38207",
     "gender": "Women",
     "category": "Sunglasses",
@@ -2110,36 +1420,6 @@
     "isDeleted": false
   },
   {
-    "id": "21118",
-    "gender": "Men",
-    "category": "Shirts",
-    "name": "s.Oliver Men Check Olive Shirt",
-    "image": "http://assets.myntassets.com/v1/images/style/properties/7a76bbe935cb227f86dc6ee762aa287c_images.jpg",
-    "description": "",
-    "price": 110.05,
-    "isDeleted": false
-  },
-  {
-    "id": "9065",
-    "gender": "Men",
-    "category": "Shirts",
-    "name": "Mark Taylor Men Blue Striped Shirt",
-    "image": "http://assets.myntassets.com/v1/images/style/properties/18384f6c45b8873e9404d1df5a9a28dd_images.jpg",
-    "description": "",
-    "price": 163.69,
-    "isDeleted": false
-  },
-  {
-    "id": "13486",
-    "gender": "Men",
-    "category": "Shirts",
-    "name": "United Colors of Benetton Men Stripes White Shirts",
-    "image": "http://assets.myntassets.com/v1/images/style/properties/4766518a78c7bfa6f672876875a14600_images.jpg",
-    "description": "",
-    "price": 157.24,
-    "isDeleted": false
-  },
-  {
     "id": "24204",
     "gender": "Men",
     "category": "Jeans",
@@ -2147,16 +1427,6 @@
     "image": "http://assets.myntassets.com/v1/images/style/properties/dfe494e64c7161e1e63561efbfea427a_images.jpg",
     "description": "",
     "price": 116.06,
-    "isDeleted": false
-  },
-  {
-    "id": "51401",
-    "gender": "Men",
-    "category": "Shirts",
-    "name": "Myntra Men Blue and Yellow Check Shirt",
-    "image": "http://assets.myntassets.com/v1/images/style/properties/7e30615a10bfcdb141d62e561bc2c971_images.jpg",
-    "description": "",
-    "price": 119.98,
     "isDeleted": false
   },
   {
@@ -2180,16 +1450,6 @@
     "isDeleted": false
   },
   {
-    "id": "6015",
-    "gender": "Men",
-    "category": "Shirts",
-    "name": "Highlander Men Small Black Checked Shirt",
-    "image": "http://assets.myntassets.com/v1/images/style/properties/af3110bb9de6608eacc980d51b237175_images.jpg",
-    "description": "",
-    "price": 170.17,
-    "isDeleted": false
-  },
-  {
     "id": "5456",
     "gender": "Men",
     "category": "Shorts",
@@ -2197,16 +1457,6 @@
     "image": "http://assets.myntassets.com/v1/images/style/properties/36ee4332024113724ef29c9999c9d864_images.jpg",
     "description": "",
     "price": 165.41,
-    "isDeleted": false
-  },
-  {
-    "id": "26795",
-    "gender": "Men",
-    "category": "Shirts",
-    "name": "Arrow Men Blue Shirt",
-    "image": "http://assets.myntassets.com/v1/images/style/properties/85a268d43cfa124f1f0e3dd3c2c5545c_images.jpg",
-    "description": "",
-    "price": 168.14,
     "isDeleted": false
   },
   {
@@ -2240,76 +1490,6 @@
     "isDeleted": false
   },
   {
-    "id": "33247",
-    "gender": "Men",
-    "category": "Shirts",
-    "name": "Arrow Men Grey Check Shirt",
-    "image": "http://assets.myntassets.com/v1/images/style/properties/Arrow-Men-Grey-Check-Shirt_8578883922f43ef1a20b47886ab4bb80_images.jpg",
-    "description": "",
-    "price": 178.62,
-    "isDeleted": false
-  },
-  {
-    "id": "11117",
-    "gender": "Men",
-    "category": "Shirts",
-    "name": "Indigo Nation Men Solid Grey Shirts",
-    "image": "http://assets.myntassets.com/v1/images/style/properties/f34d2bfc63969ccdf5fe45435b49c41b_images.jpg",
-    "description": "",
-    "price": 102.92,
-    "isDeleted": false
-  },
-  {
-    "id": "32395",
-    "gender": "Women",
-    "category": "Shirts",
-    "name": "Arrow Woman Grey Shirt",
-    "image": "http://assets.myntassets.com/v1/images/style/properties/14bfa5ebb7ca9804880ef268b7b8b415_images.jpg",
-    "description": "",
-    "price": 171.21,
-    "isDeleted": false
-  },
-  {
-    "id": "16332",
-    "gender": "Men",
-    "category": "Shirts",
-    "name": "Peter England Men Stripes Red Shirt",
-    "image": "http://assets.myntassets.com/v1/images/style/properties/74f5562ba26c812e6acd373172c60e31_images.jpg",
-    "description": "",
-    "price": 164.41,
-    "isDeleted": false
-  },
-  {
-    "id": "44588",
-    "gender": "Men",
-    "category": "Shirts",
-    "name": "Scullers Men White & Navy Blue Check Shirt",
-    "image": "http://assets.myntassets.com/v1/images/style/properties/28e44de5a234820d82848cc5aaf81ef4_images.jpg",
-    "description": "",
-    "price": 122.46,
-    "isDeleted": false
-  },
-  {
-    "id": "9062",
-    "gender": "Men",
-    "category": "Shirts",
-    "name": "Mark Taylor Men Pink Striped Shirt",
-    "image": "http://assets.myntassets.com/v1/images/style/properties/884b25159eec2ffa2ad282cf9463f8e4_images.jpg",
-    "description": "",
-    "price": 192.83,
-    "isDeleted": false
-  },
-  {
-    "id": "9250",
-    "gender": "Men",
-    "category": "Shirts",
-    "name": "Mark Taylor Men Red Striped Shirt",
-    "image": "http://assets.myntassets.com/v1/images/style/properties/8db40bacdf406c9d23cafe899bc1befc_images.jpg",
-    "description": "",
-    "price": 160.88,
-    "isDeleted": false
-  },
-  {
     "id": "29140",
     "gender": "Women",
     "category": "Sunglasses",
@@ -2340,36 +1520,6 @@
     "isDeleted": false
   },
   {
-    "id": "35947",
-    "gender": "Men",
-    "category": "Shirts",
-    "name": "Flying Machine Men White Shirt",
-    "image": "http://assets.myntassets.com/v1/images/style/properties/7ff02b9461087d72a9214544e83fe3a8_images.jpg",
-    "description": "",
-    "price": 105.78,
-    "isDeleted": false
-  },
-  {
-    "id": "9634",
-    "gender": "Men",
-    "category": "Shirts",
-    "name": "Indigo Nation Men Price catch Black White Shirts",
-    "image": "http://assets.myntassets.com/v1/images/style/properties/2de5edda874ac2fd49d221e22fe78c20_images.jpg",
-    "description": "",
-    "price": 171.06,
-    "isDeleted": false
-  },
-  {
-    "id": "19183",
-    "gender": "Men",
-    "category": "Shirts",
-    "name": "United Colors of Benetton Men Check Grey Shirt",
-    "image": "http://assets.myntassets.com/v1/images/style/properties/0d887fea51d79a595330ff9105e622f5_images.jpg",
-    "description": "",
-    "price": 198.18,
-    "isDeleted": false
-  },
-  {
     "id": "28402",
     "gender": "Women",
     "category": "Sunglasses",
@@ -2377,16 +1527,6 @@
     "image": "http://assets.myntassets.com/v1/images/style/properties/f61285700836117173afe1d1779cbabc_images.jpg",
     "description": "",
     "price": 194.18,
-    "isDeleted": false
-  },
-  {
-    "id": "15588",
-    "gender": "Men",
-    "category": "Shirts",
-    "name": "Spykar Men Striped Blue Shirt",
-    "image": "http://assets.myntassets.com/v1/images/style/properties/f94af2e7ea10a0b68194fb919a0c5dcf_images.jpg",
-    "description": "",
-    "price": 176.55,
     "isDeleted": false
   },
   {
@@ -2400,16 +1540,6 @@
     "isDeleted": false
   },
   {
-    "id": "14668",
-    "gender": "Men",
-    "category": "Shirts",
-    "name": "Basics Men White Slim Fit Checked Shirt",
-    "image": "http://assets.myntassets.com/v1/images/style/properties/31ddc0dad53d3d22ad4fee7eb9664732_images.jpg",
-    "description": "",
-    "price": 142.64,
-    "isDeleted": false
-  },
-  {
     "id": "44924",
     "gender": "Men",
     "category": "Jeans",
@@ -2417,56 +1547,6 @@
     "image": "http://assets.myntassets.com/v1/images/style/properties/1e85047e167a6e042302be3a4a6c8da8_images.jpg",
     "description": "",
     "price": 186.7,
-    "isDeleted": false
-  },
-  {
-    "id": "19177",
-    "gender": "Men",
-    "category": "Shirts",
-    "name": "United Colors Of Benetton Men Navy Blue Shirt",
-    "image": "http://assets.myntassets.com/v1/images/style/properties/b4053ad6c63d828b0e70cd816247f958_images.jpg",
-    "description": "",
-    "price": 134.04,
-    "isDeleted": false
-  },
-  {
-    "id": "19721",
-    "gender": "Men",
-    "category": "Shirts",
-    "name": "United Colors Of Benetton Men Grey Shirt",
-    "image": "http://assets.myntassets.com/v1/images/style/properties/51381b9659f1a9349fcf6a0fee14f031_images.jpg",
-    "description": "",
-    "price": 145.21,
-    "isDeleted": false
-  },
-  {
-    "id": "25528",
-    "gender": "Women",
-    "category": "Shirts",
-    "name": "Wrangler Women Salena Navy Blue Check Shirt",
-    "image": "http://assets.myntassets.com/v1/images/style/properties/2c243f70519d020e2cd384daaa3859aa_images.jpg",
-    "description": "",
-    "price": 118.13,
-    "isDeleted": false
-  },
-  {
-    "id": "16538",
-    "gender": "Men",
-    "category": "Shirts",
-    "name": "Basics Men White Slim Fit Checked Shirt",
-    "image": "http://assets.myntassets.com/v1/images/style/properties/fa82ac41e4e3c6524a6bdc0566f147f7_images.jpg",
-    "description": "",
-    "price": 195.89,
-    "isDeleted": false
-  },
-  {
-    "id": "27871",
-    "gender": "Women",
-    "category": "Shirts",
-    "name": "Scullers For Her Striped White Shirt",
-    "image": "http://assets.myntassets.com/v1/images/style/properties/199a5527eaf5f4779bb674dc1014bca6_images.jpg",
-    "description": "",
-    "price": 163.07,
     "isDeleted": false
   },
   {
@@ -2510,96 +1590,6 @@
     "isDeleted": false
   },
   {
-    "id": "9657",
-    "gender": "Men",
-    "category": "Shirts",
-    "name": "Indigo Nation Men Reversible Bling Red Shirts",
-    "image": "http://assets.myntassets.com/v1/images/style/properties/e0d997051832909858def314490bdb2c_images.jpg",
-    "description": "",
-    "price": 142.75,
-    "isDeleted": false
-  },
-  {
-    "id": "4974",
-    "gender": "Men",
-    "category": "Shirts",
-    "name": "Gini and Jony Boy's Kangaroo Yellow Infant Kidswear",
-    "image": "http://assets.myntassets.com/v1/images/style/properties/007b347549bea975129058b00698d83f_images.jpg",
-    "description": "",
-    "price": 161.34,
-    "isDeleted": false
-  },
-  {
-    "id": "9465",
-    "gender": "Men",
-    "category": "Shirts",
-    "name": "John Miller Men White Self Structure Shirts",
-    "image": "http://assets.myntassets.com/v1/images/style/properties/67986bfa821772019e5d66ddd6ff0760_images.jpg",
-    "description": "",
-    "price": 108.3,
-    "isDeleted": false
-  },
-  {
-    "id": "12950",
-    "gender": "Men",
-    "category": "Shirts",
-    "name": "Basics Men White Slim Fit Checked Shirt",
-    "image": "http://assets.myntassets.com/v1/images/style/properties/86bc888e5b861af81f564e2e9f627299_images.jpg",
-    "description": "",
-    "price": 110.76,
-    "isDeleted": false
-  },
-  {
-    "id": "13882",
-    "gender": "Men",
-    "category": "Shirts",
-    "name": "Scullers Men Check Purple Shirts",
-    "image": "http://assets.myntassets.com/v1/images/style/properties/9e4f35e63b7dfc5640aa14434039590e_images.jpg",
-    "description": "",
-    "price": 180.37,
-    "isDeleted": false
-  },
-  {
-    "id": "9233",
-    "gender": "Men",
-    "category": "Shirts",
-    "name": "Mark Taylor Men Blue Striped Shirt",
-    "image": "http://assets.myntassets.com/v1/images/style/properties/3cbeae03eff87d75f32668d8b2cc0489_images.jpg",
-    "description": "",
-    "price": 192.27,
-    "isDeleted": false
-  },
-  {
-    "id": "26957",
-    "gender": "Women",
-    "category": "Shirts",
-    "name": "Jealous 21 Women Purple Shirt",
-    "image": "http://assets.myntassets.com/v1/images/style/properties/68c39f47440cb294ec9049b94b23176d_images.jpg",
-    "description": "",
-    "price": 155.02,
-    "isDeleted": false
-  },
-  {
-    "id": "27885",
-    "gender": "Women",
-    "category": "Shirts",
-    "name": "Scullers For Her Blue Shirt",
-    "image": "http://assets.myntassets.com/v1/images/style/properties/Scullers-For-Her-Women-Blue-Woven-Shirt_904960bbe8bbb52ba0c35ae8115910eb_images.jpg",
-    "description": "",
-    "price": 172.7,
-    "isDeleted": false
-  },
-  {
-    "id": "32759",
-    "gender": "Men",
-    "category": "Shirts",
-    "name": "Indigo Nation Men Striped Purple Shirt",
-    "image": "http://assets.myntassets.com/v1/images/style/properties/7d24b7c6003d049b6d4d9e5e2a281a71_images.jpg",
-    "description": "",
-    "price": 144.23,
-    "isDeleted": false
-  },
-  {
     "id": "27624",
     "gender": "Men",
     "category": "Shorts",
@@ -2607,26 +1597,6 @@
     "image": "http://assets.myntassets.com/v1/images/style/properties/bf708b590744a69118d241f2b2b22ccb_images.jpg",
     "description": "",
     "price": 121.22,
-    "isDeleted": false
-  },
-  {
-    "id": "13411",
-    "gender": "Men",
-    "category": "Shirts",
-    "name": "United Colors of Benetton Men Stripes Pink Shirts",
-    "image": "http://assets.myntassets.com/v1/images/style/properties/2dfbbf522ce60d167c6d39a0e43b2d61_images.jpg",
-    "description": "",
-    "price": 144.78,
-    "isDeleted": false
-  },
-  {
-    "id": "22356",
-    "gender": "Men",
-    "category": "Shirts",
-    "name": "John Players Men Solid White Shirt",
-    "image": "http://assets.myntassets.com/v1/images/style/properties/e00c6197b889d96911adddde3b118969_images.jpg",
-    "description": "",
-    "price": 131.46,
     "isDeleted": false
   },
   {
@@ -2640,16 +1610,6 @@
     "isDeleted": false
   },
   {
-    "id": "16351",
-    "gender": "Men",
-    "category": "Shirts",
-    "name": "Peter England Men Stripes Cream Shirt",
-    "image": "http://assets.myntassets.com/v1/images/style/properties/000d4e5aed60867d7d58cf1a655cf2c7_images.jpg",
-    "description": "",
-    "price": 103.79,
-    "isDeleted": false
-  },
-  {
     "id": "13247",
     "gender": "Men",
     "category": "Jeans",
@@ -2657,16 +1617,6 @@
     "image": "http://assets.myntassets.com/v1/images/style/properties/Palm-Tree-Kids-Boy-Washed-Blue-Jeans_e8441f0e19775186b85a639c4fc90d7d_images.jpg",
     "description": "",
     "price": 188.29,
-    "isDeleted": false
-  },
-  {
-    "id": "28806",
-    "gender": "Men",
-    "category": "Shirts",
-    "name": "Denizen Men Check Black Shirt",
-    "image": "http://assets.myntassets.com/v1/images/style/properties/a0bb2dc080a0d54e0aeb5551e2eb64ad_images.jpg",
-    "description": "",
-    "price": 186.44,
     "isDeleted": false
   },
   {
@@ -2690,16 +1640,6 @@
     "isDeleted": false
   },
   {
-    "id": "13849",
-    "gender": "Men",
-    "category": "Shirts",
-    "name": "Indigo Nation Men Check White Shirts",
-    "image": "http://assets.myntassets.com/v1/images/style/properties/014491b2cdd79256c7fc811cdd6fd7e3_images.jpg",
-    "description": "",
-    "price": 103.94,
-    "isDeleted": false
-  },
-  {
     "id": "20859",
     "gender": "Women",
     "category": "Sunglasses",
@@ -2717,66 +1657,6 @@
     "image": "http://assets.myntassets.com/v1/images/style/properties/52d23d404170601b4b93a138f555a78f_images.jpg",
     "description": "",
     "price": 105.33,
-    "isDeleted": false
-  },
-  {
-    "id": "59891",
-    "gender": "Women",
-    "category": "Shirts",
-    "name": "Femella Women Multi Coloured Shirt",
-    "image": "http://assets.myntassets.com/v1/images/style/properties/Femella-Women-Multi-Coloured-Shirt_c804bd88e513c98990f27821fdf2c83b_images.jpg",
-    "description": "",
-    "price": 145.75,
-    "isDeleted": false
-  },
-  {
-    "id": "11722",
-    "gender": "Men",
-    "category": "Shirts",
-    "name": "Lee Men Check Red Shirts",
-    "image": "http://assets.myntassets.com/v1/images/style/properties/a78d95920ad995ba3376542f5a5c2de7_images.jpg",
-    "description": "",
-    "price": 123.23,
-    "isDeleted": false
-  },
-  {
-    "id": "15144",
-    "gender": "Men",
-    "category": "Shirts",
-    "name": "Arrow Sport Men Self-Stripes White Shirts",
-    "image": "http://assets.myntassets.com/v1/images/style/properties/b78dc7cdff25f8dbec6cef06841fba54_images.jpg",
-    "description": "",
-    "price": 110.73,
-    "isDeleted": false
-  },
-  {
-    "id": "32766",
-    "gender": "Men",
-    "category": "Shirts",
-    "name": "John Miller Men Striped White Shirt",
-    "image": "http://assets.myntassets.com/v1/images/style/properties/0b3450f13c40d498cb9d5eaa440db6c2_images.jpg",
-    "description": "",
-    "price": 197.85,
-    "isDeleted": false
-  },
-  {
-    "id": "12361",
-    "gender": "Men",
-    "category": "Shirts",
-    "name": "Reid & Taylor Men Solid Blue Shirts",
-    "image": "http://assets.myntassets.com/v1/images/style/properties/b9349792a2b4220929ecca4a1c1c680d_images.jpg",
-    "description": "",
-    "price": 154.84,
-    "isDeleted": false
-  },
-  {
-    "id": "26366",
-    "gender": "Women",
-    "category": "Shirts",
-    "name": "Arrow Woman Pink Shirt",
-    "image": "http://assets.myntassets.com/v1/images/style/properties/fffcc54cb5465d2fce6a8f51157fe44f_images.jpg",
-    "description": "",
-    "price": 2,
     "isDeleted": false
   },
   {
@@ -2800,26 +1680,6 @@
     "isDeleted": false
   },
   {
-    "id": "8588",
-    "gender": "Men",
-    "category": "Shirts",
-    "name": "Scullers Men Scul Blue Shirts",
-    "image": "http://assets.myntassets.com/v1/images/style/properties/172d4a75925e876678c1084994f99406_images.jpg",
-    "description": "",
-    "price": 1,
-    "isDeleted": false
-  },
-  {
-    "id": "36590",
-    "gender": "Men",
-    "category": "Shirts",
-    "name": "Provogue Men Eternity Red Shirt",
-    "image": "http://assets.myntassets.com/v1/images/style/properties/37d3a8bdcedd3e4dc719417dc1bad4e5_images.jpg",
-    "description": "",
-    "price": 222,
-    "isDeleted": false
-  },
-  {
     "id": "10052",
     "gender": "Women",
     "category": "Shorts",
@@ -2827,26 +1687,6 @@
     "image": "http://assets.myntassets.com/v1/images/style/properties/575ec204c6922cbdf81a7303d8bf8f23_images.jpg",
     "description": "",
     "price": 104.09,
-    "isDeleted": false
-  },
-  {
-    "id": "24267",
-    "gender": "Men",
-    "category": "Shirts",
-    "name": "Quiksilver Men Blue Check Shirt",
-    "image": "http://assets.myntassets.com/v1/images/style/properties/3b4d20214fdcd9e745cb2c4edbcdaf41_images.jpg",
-    "description": "",
-    "price": 106.34,
-    "isDeleted": false
-  },
-  {
-    "id": "27882",
-    "gender": "Women",
-    "category": "Shirts",
-    "name": "Scullers For Her Olive Shirt",
-    "image": "http://assets.myntassets.com/v1/images/style/properties/d93965abf012f4ec461bddcfa083d803_images.jpg",
-    "description": "",
-    "price": 102.56,
     "isDeleted": false
   },
   {
@@ -2860,26 +1700,6 @@
     "isDeleted": false
   },
   {
-    "id": "13885",
-    "gender": "Men",
-    "category": "Shirts",
-    "name": "Scullers Men Check Black Shirts",
-    "image": "http://assets.myntassets.com/v1/images/style/properties/28efc0f5c84b6c236d83fd4852f5582c_images.jpg",
-    "description": "",
-    "price": 159.06,
-    "isDeleted": false
-  },
-  {
-    "id": "9462",
-    "gender": "Men",
-    "category": "Shirts",
-    "name": "John Miller Men White Check Shirt",
-    "image": "http://assets.myntassets.com/v1/images/style/properties/d80532219a2d9fae8602047ed019039f_images.jpg",
-    "description": "",
-    "price": 149.29,
-    "isDeleted": false
-  },
-  {
     "id": "51668",
     "gender": "Men",
     "category": "Sunglasses",
@@ -2887,66 +1707,6 @@
     "image": "http://assets.myntassets.com/v1/images/style/properties/Louis-Philippe-Men-Gold-Sunglasses_662cbacc81f537bf8727637e444f1066_images.jpg",
     "description": "",
     "price": 140.87,
-    "isDeleted": false
-  },
-  {
-    "id": "29772",
-    "gender": "Men",
-    "category": "Shirts",
-    "name": "Wrangler Men Red Striped Casual Shirt",
-    "image": "http://assets.myntassets.com/v1/image/style/properties/29772/Wrangler-Men-Red-Striped-Casual-Shirt_1_00e3e4684484663c408ea457e09b9856.jpg",
-    "description": "",
-    "price": 166.06,
-    "isDeleted": false
-  },
-  {
-    "id": "9650",
-    "gender": "Men",
-    "category": "Shirts",
-    "name": "Indigo Nation Men Club Satin Purple Shirt",
-    "image": "http://assets.myntassets.com/v1/images/style/properties/8829ae0399f4950a1185cd36ab6d67c0_images.jpg",
-    "description": "",
-    "price": 157.24,
-    "isDeleted": false
-  },
-  {
-    "id": "8782",
-    "gender": "Men",
-    "category": "Shirts",
-    "name": "Indigo Nation Men Bling PC Purple Shirts",
-    "image": "http://assets.myntassets.com/v1/images/style/properties/f2c2af1add0ee7178d5d4ec948dc7508_images.jpg",
-    "description": "",
-    "price": 117.86,
-    "isDeleted": false
-  },
-  {
-    "id": "28492",
-    "gender": "Men",
-    "category": "Shirts",
-    "name": "Urban Yoga Men Blue Shirt",
-    "image": "http://assets.myntassets.com/v1/images/style/properties/cc5dd8a3081ae07c9a5456ed80ec2367_images.jpg",
-    "description": "",
-    "price": 158.66,
-    "isDeleted": false
-  },
-  {
-    "id": "6618",
-    "gender": "Men",
-    "category": "Shirts",
-    "name": "Spykar Men Purple and white Check Shirt",
-    "image": "http://assets.myntassets.com/v1/images/style/properties/77d24b4ada2b08c13f0f0036ad85d12a_images.jpg",
-    "description": "",
-    "price": 139.93,
-    "isDeleted": false
-  },
-  {
-    "id": "4973",
-    "gender": "Men",
-    "category": "Shirts",
-    "name": "Gini and Jony Boy's Kangaroo Yellow Kidswear",
-    "image": "http://assets.myntassets.com/v1/images/style/properties/08d64f4b4649d003c0e751805716bff4_images.jpg",
-    "description": "",
-    "price": 189.54,
     "isDeleted": false
   },
   {
@@ -2960,66 +1720,6 @@
     "isDeleted": false
   },
   {
-    "id": "8776",
-    "gender": "Men",
-    "category": "Shirts",
-    "name": "Indigo Nation Men Check Me Out Green Shirts",
-    "image": "http://assets.myntassets.com/v1/images/style/properties/d063e4773c6ef767e6a4935f5aa656d8_images.jpg",
-    "description": "",
-    "price": 140.65,
-    "isDeleted": false
-  },
-  {
-    "id": "39726",
-    "gender": "Women",
-    "category": "Shirts",
-    "name": "Arrow Woman White Shirt",
-    "image": "http://assets.myntassets.com/v1/images/style/properties/bb57877bfd521c261b60a58ab6e55977_images.jpg",
-    "description": "",
-    "price": 158.7,
-    "isDeleted": false
-  },
-  {
-    "id": "27876",
-    "gender": "Women",
-    "category": "Shirts",
-    "name": "Scullers For Her Printed White Shirt",
-    "image": "http://assets.myntassets.com/v1/images/style/properties/b8c59e1caa4589ee223234c772166fd7_images.jpg",
-    "description": "",
-    "price": 136.98,
-    "isDeleted": false
-  },
-  {
-    "id": "7168",
-    "gender": "Men",
-    "category": "Shirts",
-    "name": "Scullers Men Scul Blue White Shirt",
-    "image": "http://assets.myntassets.com/v1/images/style/properties/a3f75d10b02a048492fab3c12f1669fb_images.jpg",
-    "description": "",
-    "price": 139.09,
-    "isDeleted": false
-  },
-  {
-    "id": "13871",
-    "gender": "Men",
-    "category": "Shirts",
-    "name": "Scullers Men Stripes Beige Shirts",
-    "image": "http://assets.myntassets.com/v1/images/style/properties/1a7b29d5d77ebe7b97b0df11e58de250_images.jpg",
-    "description": "",
-    "price": 151.83,
-    "isDeleted": false
-  },
-  {
-    "id": "9805",
-    "gender": "Men",
-    "category": "Shirts",
-    "name": "John Miller Men Black Checks Shirts",
-    "image": "http://assets.myntassets.com/v1/images/style/properties/ae1a0c02d681727e8b23bbd73406d766_images.jpg",
-    "description": "",
-    "price": 126.64,
-    "isDeleted": false
-  },
-  {
     "id": "40173",
     "gender": "Men",
     "category": "Sunglasses",
@@ -3027,66 +1727,6 @@
     "image": "http://assets.myntassets.com/v1/images/style/properties/cd2f7671f0013fcedb069c749a10fbfb_images.jpg",
     "description": "",
     "price": 160.47,
-    "isDeleted": false
-  },
-  {
-    "id": "10431",
-    "gender": "Men",
-    "category": "Shirts",
-    "name": "Flying Machine Men Ydc Grey Shirts",
-    "image": "http://assets.myntassets.com/v1/images/style/properties/429b1346c82a8db263917d178d1b843e_images.jpg",
-    "description": "",
-    "price": 199.33,
-    "isDeleted": false
-  },
-  {
-    "id": "34496",
-    "gender": "Women",
-    "category": "Shirts",
-    "name": "Van Heusen Woman Blue Shirt",
-    "image": "http://assets.myntassets.com/v1/images/style/properties/445a69cd40bdb5466854e23c1834ea73_images.jpg",
-    "description": "",
-    "price": 117.72,
-    "isDeleted": false
-  },
-  {
-    "id": "59298",
-    "gender": "Men",
-    "category": "Shirts",
-    "name": "U.S. Polo Assn. Men Striped Green Shirt",
-    "image": "http://assets.myntassets.com/v1/images/style/properties/US-Polo-Assn-Men-Striped-Green-Shirt_15a9b1bf8b794525e15469ba1d11418e_images.jpg",
-    "description": "",
-    "price": 192.83,
-    "isDeleted": false
-  },
-  {
-    "id": "41603",
-    "gender": "Men",
-    "category": "Shirts",
-    "name": "Basics Men Black Shirt",
-    "image": "http://assets.myntassets.com/v1/images/style/properties/c1279c30219754cd44db5340fb9fbaf9_images.jpg",
-    "description": "",
-    "price": 171.06,
-    "isDeleted": false
-  },
-  {
-    "id": "8749",
-    "gender": "Men",
-    "category": "Shirts",
-    "name": "Indigo Nation Men Stripes Shirt Purple Shirts",
-    "image": "http://assets.myntassets.com/v1/images/style/properties/db030e5df40991c9406da97ea6a980da_images.jpg",
-    "description": "",
-    "price": 143.72,
-    "isDeleted": false
-  },
-  {
-    "id": "13416",
-    "gender": "Men",
-    "category": "Shirts",
-    "name": "United Colors of Benetton Men Check Pink Shirts",
-    "image": "http://assets.myntassets.com/v1/images/style/properties/e75aae6501265d864cb58445bff61865_images.jpg",
-    "description": "",
-    "price": 184.84,
     "isDeleted": false
   },
   {
@@ -3100,16 +1740,6 @@
     "isDeleted": false
   },
   {
-    "id": "22351",
-    "gender": "Men",
-    "category": "Shirts",
-    "name": "John Players Men Check Green Shirt",
-    "image": "http://assets.myntassets.com/v1/images/style/properties/ebf99012653dcb6cd200ff07b09a2aae_images.jpg",
-    "description": "",
-    "price": 124.11,
-    "isDeleted": false
-  },
-  {
     "id": "11341",
     "gender": "Men",
     "category": "Jeans",
@@ -3120,26 +1750,6 @@
     "isDeleted": false
   },
   {
-    "id": "8586",
-    "gender": "Men",
-    "category": "Shirts",
-    "name": "Scullers Men Red Shirt",
-    "image": "http://assets.myntassets.com/v1/images/style/properties/1bdaabec0c387f93d4f89a94a481dfdd_images.jpg",
-    "description": "",
-    "price": 199.79,
-    "isDeleted": false
-  },
-  {
-    "id": "9454",
-    "gender": "Men",
-    "category": "Shirts",
-    "name": "John Miller Men White Check Shirt",
-    "image": "http://assets.myntassets.com/v1/images/style/properties/48d2a256c41f68f41e0f8569d392f1bf_images.jpg",
-    "description": "",
-    "price": 141.5,
-    "isDeleted": false
-  },
-  {
     "id": "30669",
     "gender": "Men",
     "category": "Sunglasses",
@@ -3147,26 +1757,6 @@
     "image": "http://assets.myntassets.com/v1/images/style/properties/a85701dc55cfb422aad61f20fda2a58b_images.jpg",
     "description": "",
     "price": 121.71,
-    "isDeleted": false
-  },
-  {
-    "id": "9666",
-    "gender": "Men",
-    "category": "Shirts",
-    "name": "Indigo Nation Men Bling Blue Shirts",
-    "image": "http://assets.myntassets.com/v1/images/style/properties/3bead397ef714c54c4444c4cce1b35cd_images.jpg",
-    "description": "",
-    "price": 187.38,
-    "isDeleted": false
-  },
-  {
-    "id": "15976",
-    "gender": "Men",
-    "category": "Shirts",
-    "name": "Turtle Solid Men Purple Shirt",
-    "image": "http://assets.myntassets.com/v1/images/style/properties/55ef786235952e593f02a2f0259b1721_images.jpg",
-    "description": "",
-    "price": 158.41,
     "isDeleted": false
   },
   {
@@ -3187,66 +1777,6 @@
     "image": "http://assets.myntassets.com/v1/images/style/properties/97e422e74da7fe700737ef68d187ba67_images.jpg",
     "description": "",
     "price": 191.56,
-    "isDeleted": false
-  },
-  {
-    "id": "30803",
-    "gender": "Men",
-    "category": "Shirts",
-    "name": "Fabindia Men Blue Shirt",
-    "image": "http://assets.myntassets.com/v1/images/style/properties/ca6506e469b4aa2840c42103d5e0ad8f_images.jpg",
-    "description": "",
-    "price": 158.69,
-    "isDeleted": false
-  },
-  {
-    "id": "26966",
-    "gender": "Women",
-    "category": "Shirts",
-    "name": "Jealous 21 Women Check Purple Shirt",
-    "image": "http://assets.myntassets.com/v1/images/style/properties/aac1d1375bd77169e8b4c498769b4453_images.jpg",
-    "description": "",
-    "price": 145.13,
-    "isDeleted": false
-  },
-  {
-    "id": "26368",
-    "gender": "Women",
-    "category": "Shirts",
-    "name": "Arrow Woman Red Shirt",
-    "image": "http://assets.myntassets.com/v1/images/style/properties/3d9b29e3dea9120708ed81b904c82dc4_images.jpg",
-    "description": "",
-    "price": 166.19,
-    "isDeleted": false
-  },
-  {
-    "id": "33488",
-    "gender": "Men",
-    "category": "Shirts",
-    "name": "Doodle Kids Boy Check Purple Shirt",
-    "image": "http://assets.myntassets.com/v1/images/style/properties/e7ba99095178e6ff6e6cf905e7b2b6d4_images.jpg",
-    "description": "",
-    "price": 180.59,
-    "isDeleted": false
-  },
-  {
-    "id": "15982",
-    "gender": "Men",
-    "category": "Shirts",
-    "name": "Turtle Stripes Men Grey Shirt",
-    "image": "http://assets.myntassets.com/v1/images/style/properties/976ff1902b8fbd39c6c36429364f2e1b_images.jpg",
-    "description": "",
-    "price": 142.75,
-    "isDeleted": false
-  },
-  {
-    "id": "28808",
-    "gender": "Men",
-    "category": "Shirts",
-    "name": "Denizen Men Striped Black Shirt",
-    "image": "http://assets.myntassets.com/v1/images/style/properties/cd80c8c3512ef6446fa8476e3bed3285_images.jpg",
-    "description": "",
-    "price": 124.42,
     "isDeleted": false
   },
   {
@@ -3280,16 +1810,6 @@
     "isDeleted": false
   },
   {
-    "id": "22358",
-    "gender": "Men",
-    "category": "Shirts",
-    "name": "John Players Men Solid Beige Shirt",
-    "image": "http://assets.myntassets.com/v1/images/style/properties/377d92d9a73cffd5c8eb94351cd800b8_images.jpg",
-    "description": "",
-    "price": 110.76,
-    "isDeleted": false
-  },
-  {
     "id": "11348",
     "gender": "Men",
     "category": "Jeans",
@@ -3317,16 +1837,6 @@
     "image": "http://assets.myntassets.com/v1/images/style/properties/2250323f83ae2fe7b8fac8aa55a6f798_images.jpg",
     "description": "",
     "price": 190.32,
-    "isDeleted": false
-  },
-  {
-    "id": "26959",
-    "gender": "Women",
-    "category": "Shirts",
-    "name": "Jealous 21 Women Pink Shirt",
-    "image": "http://assets.myntassets.com/v1/images/style/properties/Jealous-21-Women-Pink-Shirt_2be751c2df8558fb7682f836dd678492_images.jpg",
-    "description": "",
-    "price": 106.32,
     "isDeleted": false
   },
   {
@@ -3390,26 +1900,6 @@
     "isDeleted": false
   },
   {
-    "id": "27878",
-    "gender": "Women",
-    "category": "Shirts",
-    "name": "Scullers For Her Women White Printed Shirt",
-    "image": "http://assets.myntassets.com/v1/images/style/properties/Scullers-For-Her-Women-Blue-Top_0c3a7659842b302bc944190e46a81a39_images.jpg",
-    "description": "",
-    "price": 139.93,
-    "isDeleted": false
-  },
-  {
-    "id": "11714",
-    "gender": "Women",
-    "category": "Shirts",
-    "name": "Lee Women Check Blue Shirts",
-    "image": "http://assets.myntassets.com/v1/images/style/properties/052aab597dd3d014e348e706c6f3106e_images.jpg",
-    "description": "",
-    "price": 122.99,
-    "isDeleted": false
-  },
-  {
     "id": "51692",
     "gender": "Men",
     "category": "Sunglasses",
@@ -3417,16 +1907,6 @@
     "image": "http://assets.myntassets.com/v1/images/style/properties/Louis-Philippe-Men-Black-Sunglasses_0a7f6f557cd4a245d1e28ebb44051526_images.jpg",
     "description": "",
     "price": 158.7,
-    "isDeleted": false
-  },
-  {
-    "id": "39728",
-    "gender": "Women",
-    "category": "Shirts",
-    "name": "Arrow Woman Women Pink Shirt",
-    "image": "http://assets.myntassets.com/v1/images/style/properties/e4b55d8a0767e7f7db335a59f329a371_images.jpg",
-    "description": "",
-    "price": 185.82,
     "isDeleted": false
   },
   {
@@ -3440,1716 +1920,6 @@
     "isDeleted": false
   },
   {
-    "id": "21347",
-    "gender": "Men",
-    "category": "Sunglasses",
-    "name": "Pal Zileri Men Casual Black Frame Sunglasses",
-    "image": "http://assets.myntassets.com/v1/images/style/properties/10099b5d103551eced706aa55da0ce6e_images.jpg",
-    "description": "",
-    "price": 111.06,
-    "isDeleted": false
-  },
-  {
-    "id": "7192",
-    "gender": "Women",
-    "category": "Jeans",
-    "name": "Jealous 21 Women Brown Jeggings",
-    "image": "http://assets.myntassets.com/v1/images/style/properties/db49badb5357f7e2674d8955d827313b_images.jpg",
-    "description": "",
-    "price": 195.15,
-    "isDeleted": false
-  },
-  {
-    "id": "32394",
-    "gender": "Women",
-    "category": "Shirts",
-    "name": "Arrow Woman Lavender Shirt",
-    "image": "http://assets.myntassets.com/v1/images/style/properties/717d4e13b34a4e2767864327cc02e763_images.jpg",
-    "description": "",
-    "price": 145.42,
-    "isDeleted": false
-  },
-  {
-    "id": "16101",
-    "gender": "Women",
-    "category": "Sunglasses",
-    "name": "M tv Women My Fab Eyewear Brown Sunglasses",
-    "image": "http://assets.myntassets.com/v1/images/style/properties/baa0db79ff1584d4fbc28f92674ac323_images.jpg",
-    "description": "",
-    "price": 105.78,
-    "isDeleted": false
-  },
-  {
-    "id": "17215",
-    "gender": "Women",
-    "category": "Sunglasses",
-    "name": "United Colors of Benetton Women Funky Eyewear Purple Sunglasses",
-    "image": "http://assets.myntassets.com/v1/images/style/properties/United-Colors-of-Benetton-Women-Funky-Eyewear-Purple-Sunglasses89be706c78fac4c77f55d385231e13ed_images.jpg",
-    "description": "",
-    "price": 182.53,
-    "isDeleted": false
-  },
-  {
-    "id": "21313",
-    "gender": "Women",
-    "category": "Sunglasses",
-    "name": "Celine Dion Women Black Frame Sunglasses",
-    "image": "http://assets.myntassets.com/v1/images/style/properties/c10ad463f83a61b10dc1dab85ad916f6_images.jpg",
-    "description": "",
-    "price": 105.66,
-    "isDeleted": false
-  },
-  {
-    "id": "58546",
-    "gender": "Women",
-    "category": "Sunglasses",
-    "name": "Miami Blues Women Sunglasses",
-    "image": "http://assets.myntassets.com/v1/images/style/properties/Miami-Blues-Men-Sunglasses_dc000ade21f95addbcb07abfba8e7003_images.jpg",
-    "description": "",
-    "price": 131.38,
-    "isDeleted": false
-  },
-  {
-    "id": "18898",
-    "gender": "Women",
-    "category": "Shirts",
-    "name": "Arrow Woman Solid White Shirt",
-    "image": "http://assets.myntassets.com/v1/images/style/properties/2f789c42126754ea02e4d241fec7ea0f_images.jpg",
-    "description": "",
-    "price": 158.41,
-    "isDeleted": false
-  },
-  {
-    "id": "28403",
-    "gender": "Women",
-    "category": "Sunglasses",
-    "name": "Idee Women Brown Sunglasses",
-    "image": "http://assets.myntassets.com/v1/images/style/properties/2715679f0ff0f44b6c616f78de54088c_images.jpg",
-    "description": "",
-    "price": 150.8,
-    "isDeleted": false
-  },
-  {
-    "id": "30098",
-    "gender": "Men",
-    "category": "Jeans",
-    "name": "Flying Machine Men Washed Black Jeans",
-    "image": "http://assets.myntassets.com/v1/images/style/properties/c4051c3495399cf5fc7e717f9c7d29ac_images.jpg",
-    "description": "",
-    "price": 166.19,
-    "isDeleted": false
-  },
-  {
-    "id": "38201",
-    "gender": "Men",
-    "category": "Sunglasses",
-    "name": "Polaroid Men Sunglasses",
-    "image": "http://assets.myntassets.com/v1/images/style/properties/ca8bb9a68ac4d26222a7a741f1f2da88_images.jpg",
-    "description": "",
-    "price": 142.75,
-    "isDeleted": false
-  },
-  {
-    "id": "12758",
-    "gender": "Men",
-    "category": "Jeans",
-    "name": "Spykar Men Washed Blue Jeans",
-    "image": "http://assets.myntassets.com/v1/images/style/properties/4a992f95bde640d4d17dbbc80b5ccd9c_images.jpg",
-    "description": "",
-    "price": 108.3,
-    "isDeleted": false
-  },
-  {
-    "id": "38239",
-    "gender": "Men",
-    "category": "Sunglasses",
-    "name": "Polaroid Men Sunglasses",
-    "image": "http://assets.myntassets.com/v1/images/style/properties/795f7bb0027b80e1d73402e186a18a0f_images.jpg",
-    "description": "",
-    "price": 133.87,
-    "isDeleted": false
-  },
-  {
-    "id": "21314",
-    "gender": "Women",
-    "category": "Sunglasses",
-    "name": "Celine Dion Women Purple Frame Sunglasses",
-    "image": "http://assets.myntassets.com/v1/images/style/properties/95f9c3c56a4884e28d5797a49225eba4_images.jpg",
-    "description": "",
-    "price": 180.37,
-    "isDeleted": false
-  },
-  {
-    "id": "28299",
-    "gender": "Men",
-    "category": "Sunglasses",
-    "name": "Fastrack Men Metallic Sunglasses",
-    "image": "http://assets.myntassets.com/v1/images/style/properties/Fastrack-Men-Metallic-Sunglassesf5451515dbd204c53b8cfaf9423c25ed_images.jpg",
-    "description": "",
-    "price": 155.02,
-    "isDeleted": false
-  },
-  {
-    "id": "30266",
-    "gender": "Men",
-    "category": "Sunglasses",
-    "name": "Speedo Men Sheet Sunglasses",
-    "image": "http://assets.myntassets.com/v1/images/style/properties/cba2497dd39439f8a6f9979c1197afae_images.jpg",
-    "description": "",
-    "price": 190.32,
-    "isDeleted": false
-  },
-  {
-    "id": "21126",
-    "gender": "Women",
-    "category": "Shirts",
-    "name": "s.Oliver Women White Shirt",
-    "image": "http://assets.myntassets.com/v1/images/style/properties/7423c21e73ff3282a6eda2e609ce0650_images.jpg",
-    "description": "",
-    "price": 110.74,
-    "isDeleted": false
-  },
-  {
-    "id": "24202",
-    "gender": "Men",
-    "category": "Jeans",
-    "name": "Deni Yo Men Slim Fit Blue Jeans",
-    "image": "http://assets.myntassets.com/v1/images/style/properties/a65e143dba851bd47fa2cff5a1d18d22_images.jpg",
-    "description": "",
-    "price": 170.33,
-    "isDeleted": false
-  },
-  {
-    "id": "17212",
-    "gender": "Men",
-    "category": "Sunglasses",
-    "name": "United Colors of Benetton Men Funky Eyewear Black Sunglasses",
-    "image": "http://assets.myntassets.com/v1/images/style/properties/e5d5e3f07afe31eb711a1cba783425ed_images.jpg",
-    "description": "",
-    "price": 106.32,
-    "isDeleted": false
-  },
-  {
-    "id": "12760",
-    "gender": "Women",
-    "category": "Jeans",
-    "name": "Spykar Women Blue Washed Jeans",
-    "image": "http://assets.myntassets.com/v1/images/style/properties/2ace4b2e480aaf0a701cc44d1cc8d150_images.jpg",
-    "description": "",
-    "price": 129.66,
-    "isDeleted": false
-  },
-  {
-    "id": "16106",
-    "gender": "Women",
-    "category": "Sunglasses",
-    "name": "M tv Women My Fab Eyewear Brown Sunglasses",
-    "image": "http://assets.myntassets.com/v1/images/style/properties/d54cfb9c50592e56b33bc9f074a0bb3c_images.jpg",
-    "description": "",
-    "price": 140.3,
-    "isDeleted": false
-  },
-  {
-    "id": "43304",
-    "gender": "Women",
-    "category": "Shirts",
-    "name": "United Colors of Benetton Women White Shirt",
-    "image": "http://assets.myntassets.com/v1/images/style/properties/f7c7a0de4c0f995783e3bd54423a2317_images.jpg",
-    "description": "",
-    "price": 188.29,
-    "isDeleted": false
-  },
-  {
-    "id": "11323",
-    "gender": "Men",
-    "category": "Jeans",
-    "name": "United Colors of Benetton Men Washed Blue Jeans",
-    "image": "http://assets.myntassets.com/v1/images/style/properties/7abc614e6e526858a020bd6420d1707c_images.jpg",
-    "description": "",
-    "price": 114.61,
-    "isDeleted": false
-  },
-  {
-    "id": "32393",
-    "gender": "Women",
-    "category": "Shirts",
-    "name": "Arrow Woman Blue Shirt",
-    "image": "http://assets.myntassets.com/v1/images/style/properties/aa1935a6cee21987f5170f0f739dff81_images.jpg",
-    "description": "",
-    "price": 131.44,
-    "isDeleted": false
-  },
-  {
-    "id": "24692",
-    "gender": "Men",
-    "category": "Jeans",
-    "name": "Locomotive Men Black Jeans",
-    "image": "http://assets.myntassets.com/v1/images/style/properties/b5f9433f141d6c3103bca927bd8dadc9_images.jpg",
-    "description": "",
-    "price": 169.04,
-    "isDeleted": false
-  },
-  {
-    "id": "27017",
-    "gender": "Women",
-    "category": "Jeans",
-    "name": "Jealous 21 Women Blue Jeans",
-    "image": "http://assets.myntassets.com/v1/images/style/properties/dd51bc3b692a7eb2cad5f1a430c00e6f_images.jpg",
-    "description": "",
-    "price": 197.85,
-    "isDeleted": false
-  },
-  {
-    "id": "48388",
-    "gender": "Men",
-    "category": "Jeans",
-    "name": "French Connection Men Blue Jeans",
-    "image": "http://assets.myntassets.com/v1/images/style/properties/762a6b75b4b58c5b121d6378a324cc3b_images.jpg",
-    "description": "",
-    "price": 2,
-    "isDeleted": false
-  },
-  {
-    "id": "31340",
-    "gender": "Men",
-    "category": "Jeans",
-    "name": "Locomotive Men Washed Blue Jeans",
-    "image": "http://assets.myntassets.com/v1/images/style/properties/6e07fed5a179162a5c98e441e99a9ec8_images.jpg",
-    "description": "",
-    "price": 1,
-    "isDeleted": false
-  },
-  {
-    "id": "38206",
-    "gender": "Women",
-    "category": "Sunglasses",
-    "name": "Polaroid Women Sunglasses",
-    "image": "http://assets.myntassets.com/v1/images/style/properties/0fb47b0b939d53aa65b33d7448ce9c5c_images.jpg",
-    "description": "",
-    "price": 165.93,
-    "isDeleted": false
-  },
-  {
-    "id": "50946",
-    "gender": "Women",
-    "category": "Jeans",
-    "name": "Lee Womens Blue Roxy Fit Jeans",
-    "image": "http://assets.myntassets.com/v1/images/style/properties/bd30aee8b971abdf645ac578aa4c32a0_images.jpg",
-    "description": "",
-    "price": 160.16,
-    "isDeleted": false
-  },
-  {
-    "id": "19727",
-    "gender": "Women",
-    "category": "Shirts",
-    "name": "United Colors of Benetton Women Solid White Shirt",
-    "image": "http://assets.myntassets.com/v1/images/style/properties/5444b8300e52407981d37f72d296ef7c_images.jpg",
-    "description": "",
-    "price": 174.19,
-    "isDeleted": false
-  },
-  {
-    "id": "28404",
-    "gender": "Men",
-    "category": "Sunglasses",
-    "name": "Idee Men Black Sunglasses",
-    "image": "http://assets.myntassets.com/v1/images/style/properties/e917f83b245f4a8d559afb774aeecc30_images.jpg",
-    "description": "",
-    "price": 110.05,
-    "isDeleted": false
-  },
-  {
-    "id": "58541",
-    "gender": "Men",
-    "category": "Sunglasses",
-    "name": "Miami Blues Men Sunglasses",
-    "image": "http://assets.myntassets.com/v1/images/style/properties/Miami-Blues-Men-Sunglasses_b41eecd15e843899d3e7e9d13d082c0a_images.jpg",
-    "description": "",
-    "price": 166.06,
-    "isDeleted": false
-  },
-  {
-    "id": "17224",
-    "gender": "Men",
-    "category": "Sunglasses",
-    "name": "United Colors of Benetton Men Funky Eyewear Blue Sunglasses",
-    "image": "http://assets.myntassets.com/v1/images/style/properties/7e15ef8ad01557e6a541cd2a8d319ce7_images.jpg",
-    "description": "",
-    "price": 165.82,
-    "isDeleted": false
-  },
-  {
-    "id": "21322",
-    "gender": "Men",
-    "category": "Sunglasses",
-    "name": "Louis Philippe Men Sunglasses LP045-C3",
-    "image": "http://assets.myntassets.com/v1/images/style/properties/96ca3bc35964566fdf2d42dc3d7e9e52_images.jpg",
-    "description": "",
-    "price": 136.98,
-    "isDeleted": false
-  },
-  {
-    "id": "44587",
-    "gender": "Men",
-    "category": "Jeans",
-    "name": "Lee Men Blue Rack Jeans",
-    "image": "http://assets.myntassets.com/v1/images/style/properties/60405419590674fab1c69b1de2c73757_images.jpg",
-    "description": "",
-    "price": 116.12,
-    "isDeleted": false
-  },
-  {
-    "id": "27021",
-    "gender": "Women",
-    "category": "Jeans",
-    "name": "Jealous 21 Women Blue Jeans",
-    "image": "http://assets.myntassets.com/v1/images/style/properties/4e3a72ea2d826181beccf2969240d861_images.jpg",
-    "description": "",
-    "price": 193.95,
-    "isDeleted": false
-  },
-  {
-    "id": "11315",
-    "gender": "Women",
-    "category": "Jeans",
-    "name": "United Colors of Benetton Women Washed Blue Jeans",
-    "image": "http://assets.myntassets.com/v1/images/style/properties/291607f799467fa2c2486739d776108f_images.jpg",
-    "description": "",
-    "price": 177.49,
-    "isDeleted": false
-  },
-  {
-    "id": "28290",
-    "gender": "Men",
-    "category": "Sunglasses",
-    "name": "Fastrack Men Sunglasses",
-    "image": "http://assets.myntassets.com/v1/images/style/properties/edcfe82ffa721550f12d48994b3b01b4_images.jpg",
-    "description": "",
-    "price": 116.4,
-    "isDeleted": false
-  },
-  {
-    "id": "38230",
-    "gender": "Women",
-    "category": "Sunglasses",
-    "name": "Polaroid Women Sunglasses",
-    "image": "http://assets.myntassets.com/v1/images/style/properties/d1c987806f9c4dc1fec2916aeca75237_images.jpg",
-    "description": "",
-    "price": 160.88,
-    "isDeleted": false
-  },
-  {
-    "id": "21587",
-    "gender": "Men",
-    "category": "Jeans",
-    "name": "Spykar Men Washed Blue Jeans",
-    "image": "http://assets.myntassets.com/v1/images/style/properties/e9aaef6467689eac974ad5658d3f1d5f_images.jpg",
-    "description": "",
-    "price": 118.13,
-    "isDeleted": false
-  },
-  {
-    "id": "18891",
-    "gender": "Women",
-    "category": "Shirts",
-    "name": "Arrow Woman Tyra Black & White Striped Shirt",
-    "image": "http://assets.myntassets.com/v1/images/style/properties/7bff7951168f90534f6a350679834d16_images.jpg",
-    "description": "",
-    "price": 187.38,
-    "isDeleted": false
-  },
-  {
-    "id": "50948",
-    "gender": "Women",
-    "category": "Jeans",
-    "name": "Lee Women Black Jeans",
-    "image": "http://assets.myntassets.com/v1/images/style/properties/9e7e3754b5631689c9be03aa07668fa0_images.jpg",
-    "description": "",
-    "price": 131.96,
-    "isDeleted": false
-  },
-  {
-    "id": "44580",
-    "gender": "Men",
-    "category": "Jeans",
-    "name": "Lee Men Black Jet Jeans",
-    "image": "http://assets.myntassets.com/v1/images/style/properties/4378442ac55470a6e9c3214e29db1d17_images.jpg",
-    "description": "",
-    "price": 183.8,
-    "isDeleted": false
-  },
-  {
-    "id": "38208",
-    "gender": "Women",
-    "category": "Sunglasses",
-    "name": "Polaroid Women Sunglasses",
-    "image": "http://assets.myntassets.com/v1/image/style/properties/38208/Polaroid-Women-Sunglasses_1_6aa1cb54e4a2d44dbe6800414bf3d24b.jpg",
-    "description": "",
-    "price": 167.15,
-    "isDeleted": false
-  },
-  {
-    "id": "21325",
-    "gender": "Men",
-    "category": "Sunglasses",
-    "name": "Louis Philippe Men Aviator Sunglasses LP201-C2",
-    "image": "http://assets.myntassets.com/v1/images/style/properties/e3f4155dfb965329fe346cac45af0d98_images.jpg",
-    "description": "",
-    "price": 155.02,
-    "isDeleted": false
-  },
-  {
-    "id": "17223",
-    "gender": "Women",
-    "category": "Sunglasses",
-    "name": "United Colors of Benetton Women Funky Eyewear Black Sunglasses",
-    "image": "http://assets.myntassets.com/v1/images/style/properties/5e4603afdcbd47ba4cecc9e3f4e02e53_images.jpg",
-    "description": "",
-    "price": 172.7,
-    "isDeleted": false
-  },
-  {
-    "id": "12751",
-    "gender": "Men",
-    "category": "Jeans",
-    "name": "Spykar Men Ep Jeans Blue Jeans",
-    "image": "http://assets.myntassets.com/v1/images/style/properties/feda4468c80ecabc6c01946b70b3a09b_images.jpg",
-    "description": "",
-    "price": 104.15,
-    "isDeleted": false
-  },
-  {
-    "id": "51604",
-    "gender": "Women",
-    "category": "Jeans",
-    "name": "Kraus Jeans Women Navy Blue Jeans",
-    "image": "http://assets.myntassets.com/v1/images/style/properties/23d4249ed40d0441b5ccc999ebd812a2_images.jpg",
-    "description": "",
-    "price": 160.38,
-    "isDeleted": false
-  },
-  {
-    "id": "27019",
-    "gender": "Women",
-    "category": "Jeans",
-    "name": "Jealous 21 Women Washed Light Blue Jeans",
-    "image": "http://assets.myntassets.com/v1/images/style/properties/bd9b77d5439b4fc43d5bd07bed96308f_images.jpg",
-    "description": "",
-    "price": 103.79,
-    "isDeleted": false
-  },
-  {
-    "id": "48386",
-    "gender": "Men",
-    "category": "Jeans",
-    "name": "French Connection Men Black Jeans",
-    "image": "http://assets.myntassets.com/v1/images/style/properties/cfad8206757d7962a9f63511d8ad213c_images.jpg",
-    "description": "",
-    "price": 135.53,
-    "isDeleted": false
-  },
-  {
-    "id": "16108",
-    "gender": "Men",
-    "category": "Sunglasses",
-    "name": "M tv Men My Fab Eyewear Brown Sunglasses",
-    "image": "http://assets.myntassets.com/v1/images/style/properties/7bc25da383f9c11bb7ce9574a7ebc014_images.jpg",
-    "description": "",
-    "price": 140.3,
-    "isDeleted": false
-  },
-  {
-    "id": "28297",
-    "gender": "Men",
-    "category": "Sunglasses",
-    "name": "Fastrack Men Black Sunglasses",
-    "image": "http://assets.myntassets.com/v1/images/style/properties/Fastrack-Men-Black-Sunglasses77903382739c4da7564a4134311cf123_images.jpg",
-    "description": "",
-    "price": 123,
-    "isDeleted": false
-  },
-  {
-    "id": "56846",
-    "gender": "Men",
-    "category": "Jeans",
-    "name": "John Players Men Blue Jeans",
-    "image": "http://assets.myntassets.com/v1/image/style/properties/56846/John-Players-Men-Blue-Jeans_1_b788a58b66b6147d893390b3d6b68a7f.jpg",
-    "description": "",
-    "price": 111,
-    "isDeleted": false
-  },
-  {
-    "id": "48200",
-    "gender": "Men",
-    "category": "Sunglasses",
-    "name": "United Colors of Benetton Men Black Sunglasses",
-    "image": "http://assets.myntassets.com/v1/images/style/properties/United-Colors-of-Benetton-Men-Black-Sunglass_98b9b39e034ca44dd20d989a9bf5478a_images.jpg",
-    "description": "",
-    "price": 1231,
-    "isDeleted": false
-  },
-  {
-    "id": "38177",
-    "gender": "Men",
-    "category": "Sunglasses",
-    "name": "Miami Blues Men Sunglasses",
-    "image": "http://assets.myntassets.com/v1/images/style/properties/42a08d1950b9060976c453b5269b40f5_images.jpg",
-    "description": "",
-    "price": 222,
-    "isDeleted": false
-  },
-  {
-    "id": "16846",
-    "gender": "Men",
-    "category": "Sunglasses",
-    "name": "Idee Men Funky Eyewear Brown Sunglasses",
-    "image": "http://assets.myntassets.com/v1/images/style/properties/3a1f8dc480f44529088d1e9929230454_images.jpg",
-    "description": "",
-    "price": 160.28,
-    "isDeleted": false
-  },
-  {
-    "id": "38183",
-    "gender": "Women",
-    "category": "Sunglasses",
-    "name": "Miami Blues Women Sunglasses",
-    "image": "http://assets.myntassets.com/v1/images/style/properties/47a2243587cdcd65ca669a039fb6b1a5_images.jpg",
-    "description": "",
-    "price": 189.54,
-    "isDeleted": false
-  },
-  {
-    "id": "30573",
-    "gender": "Men",
-    "category": "Sunglasses",
-    "name": "Opium Men Aviator Blue Sunglasses",
-    "image": "http://assets.myntassets.com/v1/images/style/properties/6898a89ff9b75c7c4f0812af7d513538_images.jpg",
-    "description": "",
-    "price": 110.94,
-    "isDeleted": false
-  },
-  {
-    "id": "11294",
-    "gender": "Men",
-    "category": "Jeans",
-    "name": "Wrangler Men Blue Floyd Jeans",
-    "image": "http://assets.myntassets.com/v1/images/style/properties/b62ee13fdef638ee8ab53780ab9574d3_images.jpg",
-    "description": "",
-    "price": 136.98,
-    "isDeleted": false
-  },
-  {
-    "id": "41346",
-    "gender": "Men",
-    "category": "Jeans",
-    "name": "Wrangler Men Navy Blue Texas Jeans",
-    "image": "http://assets.myntassets.com/v1/images/style/properties/Wrangler-Men-Navy-Blue-Jeans_cb3a64b050a8342cb5275774c5eab9bc_images.jpg",
-    "description": "",
-    "price": 157.6,
-    "isDeleted": false
-  },
-  {
-    "id": "56795",
-    "gender": "Men",
-    "category": "Jeans",
-    "name": "Horsefly Men Blue Jeans",
-    "image": "http://assets.myntassets.com/v1/images/style/properties/Horsefly-Men-Blue-Jeans_cab57f641bd82ba1a3a92cd4bda9a19e_images.jpg",
-    "description": "",
-    "price": 171.21,
-    "isDeleted": false
-  },
-  {
-    "id": "38184",
-    "gender": "Women",
-    "category": "Sunglasses",
-    "name": "Miami Blues Women Sunglasses",
-    "image": "http://assets.myntassets.com/v1/images/style/properties/f54696c12e9f2a6c97375831ae016b94_images.jpg",
-    "description": "",
-    "price": 197.6,
-    "isDeleted": false
-  },
-  {
-    "id": "8650",
-    "gender": "Men",
-    "category": "Sunglasses",
-    "name": "Fastrack Men Sport Black Sunglasses",
-    "image": "http://assets.myntassets.com/v1/images/style/properties/f860fdcba6f0b14841b08b7013a07890_images.jpg",
-    "description": "",
-    "price": 143.72,
-    "isDeleted": false
-  },
-  {
-    "id": "16841",
-    "gender": "Women",
-    "category": "Sunglasses",
-    "name": "Idee Women Funky Eyewear Brown Sunglasses",
-    "image": "http://assets.myntassets.com/v1/images/style/properties/IDEE-Women-Funky-Eyewear-Brown-Sunglasses3bf3eaaab3ff81ff9be9a38dc05e950f_images.jpg",
-    "description": "",
-    "price": 189.79,
-    "isDeleted": false
-  },
-  {
-    "id": "16089",
-    "gender": "Men",
-    "category": "Sunglasses",
-    "name": "M tv Men My Fab Eyewear Black Sunglasses",
-    "image": "http://assets.myntassets.com/v1/images/style/properties/11ad7f96ee0af97441139310e90ef9d1_images.jpg",
-    "description": "",
-    "price": 194.18,
-    "isDeleted": false
-  },
-  {
-    "id": "48207",
-    "gender": "Men",
-    "category": "Sunglasses",
-    "name": "United Colors of Benetton Men Brown Sunglasses",
-    "image": "http://assets.myntassets.com/v1/images/style/properties/United-Colors-of-Benetton-Men-Brown-Sunglass_3c75d0f161103905f426b5893da98d20_images.jpg",
-    "description": "",
-    "price": 186.7,
-    "isDeleted": false
-  },
-  {
-    "id": "38170",
-    "gender": "Women",
-    "category": "Sunglasses",
-    "name": "Miami Blues Women Sunglasses",
-    "image": "http://assets.myntassets.com/v1/images/style/properties/cce393dc9533cba17f4ad15f86156fbb_images.jpg",
-    "description": "",
-    "price": 153.7,
-    "isDeleted": false
-  },
-  {
-    "id": "41517",
-    "gender": "Men",
-    "category": "Sunglasses",
-    "name": "Basics Men Sunglasses",
-    "image": "http://assets.myntassets.com/v1/images/style/properties/3f19a7c1d855de8e285060d8c34a9bef_images.jpg",
-    "description": "",
-    "price": 170.08,
-    "isDeleted": false
-  },
-  {
-    "id": "50233",
-    "gender": "Women",
-    "category": "Sunglasses",
-    "name": "Stoln Women Black Sunglasses",
-    "image": "http://assets.myntassets.com/v1/images/style/properties/4f1487733c740017e21697a04d7e08a6_images.jpg",
-    "description": "",
-    "price": 161.34,
-    "isDeleted": false
-  },
-  {
-    "id": "23735",
-    "gender": "Women",
-    "category": "Sunglasses",
-    "name": "Ray-Ban Women Jackie Sunglasses",
-    "image": "http://assets.myntassets.com/v1/images/style/properties/Ray-Ban-Women-Jackie-Sunglasses5baf3edc6c0887b34fe3bfdc84f955b0_images.jpg",
-    "description": "",
-    "price": 155.02,
-    "isDeleted": false
-  },
-  {
-    "id": "11293",
-    "gender": "Men",
-    "category": "Jeans",
-    "name": "Wrangler Men Blue Texas Jeans",
-    "image": "http://assets.myntassets.com/v1/images/style/properties/73a991cb06f2aafb5873e575e4f7fa71_images.jpg",
-    "description": "",
-    "price": 110.74,
-    "isDeleted": false
-  },
-  {
-    "id": "42366",
-    "gender": "Women",
-    "category": "Shirts",
-    "name": "Flying Machine Women Multicoloured Printed Shirt",
-    "image": "http://assets.myntassets.com/v1/images/style/properties/8fbd4a58d5fa31ab4433c6e8b2e91355_images.jpg",
-    "description": "",
-    "price": 157.41,
-    "isDeleted": false
-  },
-  {
-    "id": "30574",
-    "gender": "Men",
-    "category": "Sunglasses",
-    "name": "Opium Men Aviator Black Sunglass",
-    "image": "http://assets.myntassets.com/v1/images/style/properties/ffe648937f8eb4832f3f7976df52b416_images.jpg",
-    "description": "",
-    "price": 108.97,
-    "isDeleted": false
-  },
-  {
-    "id": "43249",
-    "gender": "Women",
-    "category": "Jeans",
-    "name": "Denizen Women Blue Skinny Thunder Jeans",
-    "image": "http://assets.myntassets.com/v1/images/style/properties/Denizen-Men-Blue-Jeans_4f8c26db416996ca86c42400dfb70c14_images.jpg",
-    "description": "",
-    "price": 195.74,
-    "isDeleted": false
-  },
-  {
-    "id": "41348",
-    "gender": "Men",
-    "category": "Jeans",
-    "name": "Wrangler Men Navy Blue Skanders Jeans",
-    "image": "http://assets.myntassets.com/v1/images/style/properties/ac4376a07f6c5e4d9f24e48d5a7634e3_images.jpg",
-    "description": "",
-    "price": 123.23,
-    "isDeleted": false
-  },
-  {
-    "id": "48231",
-    "gender": "Women",
-    "category": "Sunglasses",
-    "name": "United Colors of Benetton Women Brown Sunglass",
-    "image": "http://assets.myntassets.com/v1/images/style/properties/United-Colors-of-Benetton-Women-Brown-Sunglass_f00c270c9afa2a109074bcf8f22f5991_images.jpg",
-    "description": "",
-    "price": 110.73,
-    "isDeleted": false
-  },
-  {
-    "id": "8692",
-    "gender": "Women",
-    "category": "Sunglasses",
-    "name": "Fastrack Women Graident Sunglasses P161BR1F",
-    "image": "http://assets.myntassets.com/v1/images/style/properties/1715d4bab4c0a8365e09b8f70de97ace_images.jpg",
-    "description": "",
-    "price": 120.21,
-    "isDeleted": false
-  },
-  {
-    "id": "16883",
-    "gender": "Men",
-    "category": "Sunglasses",
-    "name": "Police Men Casual Black Sunglasses",
-    "image": "http://assets.myntassets.com/v1/images/style/properties/bac94b9e3c852f75eca0d5a9dad29837_images.jpg",
-    "description": "",
-    "price": 1,
-    "isDeleted": false
-  },
-  {
-    "id": "21292",
-    "gender": "Women",
-    "category": "Sunglasses",
-    "name": "Celine Dion Women Metalic Frame Sunglasses",
-    "image": "http://assets.myntassets.com/v1/images/style/properties/80d5d90d958151ccd0d5741e97ae0876_images.jpg",
-    "description": "",
-    "price": 1231,
-    "isDeleted": false
-  },
-  {
-    "id": "11407",
-    "gender": "Women",
-    "category": "Shirts",
-    "name": "United Colors of Benetton Women  Winter Purple Shirt",
-    "image": "http://assets.myntassets.com/v1/images/style/properties/5c40f179940aa3665707c6a54c2855ce_images.jpg",
-    "description": "",
-    "price": 1,
-    "isDeleted": false
-  },
-  {
-    "id": "43420",
-    "gender": "Men",
-    "category": "Jeans",
-    "name": "Spykar Men Blue Jeans",
-    "image": "http://assets.myntassets.com/v1/images/style/properties/da4a2aa4fdb699801885eb58062a66be_images.jpg",
-    "description": "",
-    "price": 222,
-    "isDeleted": false
-  },
-  {
-    "id": "13350",
-    "gender": "Women",
-    "category": "Jeans",
-    "name": "Spykar Blue Washed Jeans",
-    "image": "http://assets.myntassets.com/v1/images/style/properties/9b19c8f2fef89de0b58697e6ffaf14cd_images.jpg",
-    "description": "",
-    "price": 137.29,
-    "isDeleted": false
-  },
-  {
-    "id": "50205",
-    "gender": "Women",
-    "category": "Sunglasses",
-    "name": "Stoln Women Brown Sunglasses",
-    "image": "http://assets.myntassets.com/v1/images/style/properties/9890ced52879d45e04a84a26a02ad70b_images.jpg",
-    "description": "",
-    "price": 195.3,
-    "isDeleted": false
-  },
-  {
-    "id": "16848",
-    "gender": "Women",
-    "category": "Sunglasses",
-    "name": "Idee Women Funky Eyewear Brown Sunglasses",
-    "image": "http://assets.myntassets.com/v1/images/style/properties/57c82eaf0c1806a0f71f4916a53d9e21_images.jpg",
-    "description": "",
-    "price": 102.56,
-    "isDeleted": false
-  },
-  {
-    "id": "14723",
-    "gender": "Women",
-    "category": "Shirts",
-    "name": "Scullers For Her Women Casual Shirt Maroon Shirts",
-    "image": "http://assets.myntassets.com/v1/images/style/properties/734e0d59a87e94af4ccdcebf95c2502b_images.jpg",
-    "description": "",
-    "price": 110.05,
-    "isDeleted": false
-  },
-  {
-    "id": "16080",
-    "gender": "Women",
-    "category": "Sunglasses",
-    "name": "Mayhem Women Oval Sunglasses 9002-204",
-    "image": "http://assets.myntassets.com/v1/images/style/properties/fa4ef1c6f003095d235813364014311b_images.jpg",
-    "description": "",
-    "price": 169.97,
-    "isDeleted": false
-  },
-  {
-    "id": "12044",
-    "gender": "Men",
-    "category": "Jeans",
-    "name": "Spykar Men Washed Blue Jeans",
-    "image": "http://assets.myntassets.com/v1/images/style/properties/8ad79313cba9eee717c884784632335f_images.jpg",
-    "description": "",
-    "price": 172.9,
-    "isDeleted": false
-  },
-  {
-    "id": "23703",
-    "gender": "Men",
-    "category": "Sunglasses",
-    "name": "Ray-Ban Men Shiny Hawana Black Sunglasses",
-    "image": "http://assets.myntassets.com/v1/images/style/properties/de9b89463b3974c122c66d4ef9399329_images.jpg",
-    "description": "",
-    "price": 137.35,
-    "isDeleted": false
-  },
-  {
-    "id": "38179",
-    "gender": "Women",
-    "category": "Sunglasses",
-    "name": "Miami Blues Women Sunglasses",
-    "image": "http://assets.myntassets.com/v1/images/style/properties/75ba1a6012e5cd09151b193680cff52e_images.jpg",
-    "description": "",
-    "price": 181.05,
-    "isDeleted": false
-  },
-  {
-    "id": "16884",
-    "gender": "Men",
-    "category": "Sunglasses",
-    "name": "Police Men Casual Brown Sunglasses",
-    "image": "http://assets.myntassets.com/v1/images/style/properties/0b0ba6dc507e4cffac37cb3f6650af2f_images.jpg",
-    "description": "",
-    "price": 133.36,
-    "isDeleted": false
-  },
-  {
-    "id": "8695",
-    "gender": "Women",
-    "category": "Sunglasses",
-    "name": "Fastrack Women Gradient Sunglasses P168BR3F",
-    "image": "http://assets.myntassets.com/assets/images/8695/2015/10/29/11446102178753-Fastrack-Women-Gradient-Sunglasses-P168BR3F-9841446102178404-1.jpg",
-    "description": "",
-    "price": 193.95,
-    "isDeleted": false
-  },
-  {
-    "id": "48236",
-    "gender": "Men",
-    "category": "Sunglasses",
-    "name": "United Colors of Benetton Men Black Sunglasses",
-    "image": "http://assets.myntassets.com/v1/images/style/properties/United-Colors-of-Benetton-Men-Black-Sunglass_05db52c1d7f7a6e191adbcefc0232d3e_images.jpg",
-    "description": "",
-    "price": 168.14,
-    "isDeleted": false
-  },
-  {
-    "id": "41519",
-    "gender": "Men",
-    "category": "Sunglasses",
-    "name": "Basics Men Aviator Sunglasses",
-    "image": "http://assets.myntassets.com/v1/images/style/properties/8cd3e42fbecc3a8cefcd30b64fe5f07a_images.jpg",
-    "description": "",
-    "price": 175.91,
-    "isDeleted": false
-  },
-  {
-    "id": "16870",
-    "gender": "Women",
-    "category": "Sunglasses",
-    "name": "Idee Women Funky Eyewear Green Sunglasses",
-    "image": "http://assets.myntassets.com/v1/images/style/properties/ca5680df84c1391f96a83c33c93f6686_images.jpg",
-    "description": "",
-    "price": 192.83,
-    "isDeleted": false
-  },
-  {
-    "id": "48494",
-    "gender": "Women",
-    "category": "Jeans",
-    "name": "French Connection Women Black Jeans",
-    "image": "http://assets.myntassets.com/v1/images/style/properties/French-Connection-Women-Black-Jeans_da463d486a9eceb836dfbbf3401cb084_images.jpg",
-    "description": "",
-    "price": 132.29,
-    "isDeleted": false
-  },
-  {
-    "id": "48209",
-    "gender": "Men",
-    "category": "Sunglasses",
-    "name": "United Colors of Benetton Men Black Sunglasses",
-    "image": "http://assets.myntassets.com/v1/images/style/properties/United-Colors-of-Benetton-Men-Black-Sunglass_cdf04f996971f46f7e929bf9c36892df_images.jpg",
-    "description": "",
-    "price": 137.92,
-    "isDeleted": false
-  },
-  {
-    "id": "23704",
-    "gender": "Men",
-    "category": "Sunglasses",
-    "name": "Ray-Ban Men New Wayfarer Sunglasses",
-    "image": "http://assets.myntassets.com/v1/images/style/properties/1fdc49405f62cde3ea02b48c632dbb74_images.jpg",
-    "description": "",
-    "price": 198.18,
-    "isDeleted": false
-  },
-  {
-    "id": "41384",
-    "gender": "Women",
-    "category": "Shirts",
-    "name": "Wrangler Women Pink Shirt",
-    "image": "http://assets.myntassets.com/v1/images/style/properties/a5231be84f4ba209d4177987d7c0906b_images.jpg",
-    "description": "",
-    "price": 176.55,
-    "isDeleted": false
-  },
-  {
-    "id": "16087",
-    "gender": "Men",
-    "category": "Sunglasses",
-    "name": "M tv Men My Fab Eyewear Black Sunglasses",
-    "image": "http://assets.myntassets.com/v1/images/style/properties/be7a90cb77a7f27db08ba1915c118cb9_images.jpg",
-    "description": "",
-    "price": 156.27,
-    "isDeleted": false
-  },
-  {
-    "id": "51586",
-    "gender": "Women",
-    "category": "Jeans",
-    "name": "Wrangler Women Blue Giselle Jeans",
-    "image": "http://assets.myntassets.com/v1/images/style/properties/9af1ad4c632955757a14926ccf0dea3e_images.jpg",
-    "description": "",
-    "price": 170.08,
-    "isDeleted": false
-  },
-  {
-    "id": "50202",
-    "gender": "Women",
-    "category": "Sunglasses",
-    "name": "Stoln Women Green Sunglasses",
-    "image": "http://assets.myntassets.com/v1/images/style/properties/d2acc783ebb1e3c5e19fc150966fb9f0_images.jpg",
-    "description": "",
-    "price": 184.48,
-    "isDeleted": false
-  },
-  {
-    "id": "52555",
-    "gender": "Women",
-    "category": "Jeans",
-    "name": "Pepe Jeans Women Blue Jeans",
-    "image": "http://assets.myntassets.com/v1/images/style/properties/55c19d267774f4a8ffc1843e9823722f_images.jpg",
-    "description": "",
-    "price": 109.66,
-    "isDeleted": false
-  },
-  {
-    "id": "21295",
-    "gender": "Women",
-    "category": "Sunglasses",
-    "name": "Celine Dion Women Metalic Frame Sunglasses",
-    "image": "http://assets.myntassets.com/v1/images/style/properties/70d167517a6bbb292b25d93919581ac6_images.jpg",
-    "description": "",
-    "price": 142.75,
-    "isDeleted": false
-  },
-  {
-    "id": "29864",
-    "gender": "Men",
-    "category": "Sunglasses",
-    "name": "Mayhem Men Sunglasses 1025-204",
-    "image": "http://assets.myntassets.com/v1/images/style/properties/92d4a51b082a077170439a3a205a1978_images.jpg",
-    "description": "",
-    "price": 133.87,
-    "isDeleted": false
-  },
-  {
-    "id": "17333",
-    "gender": "Men",
-    "category": "Sunglasses",
-    "name": "Pepe Jeans Men Casual Sunglasses",
-    "image": "http://assets.myntassets.com/v1/images/style/properties/e95aab644e876b7553ae3030e5fcf22b_images.jpg",
-    "description": "",
-    "price": 193.56,
-    "isDeleted": false
-  },
-  {
-    "id": "11030",
-    "gender": "Women",
-    "category": "Shirts",
-    "name": "Jealous 21 Women Check Blue Shirt",
-    "image": "http://assets.myntassets.com/v1/images/style/properties/74335433ed0f40a074134f20a410ae17_images.jpg",
-    "description": "",
-    "price": 112.26,
-    "isDeleted": false
-  },
-  {
-    "id": "29890",
-    "gender": "Women",
-    "category": "Sunglasses",
-    "name": "Mayhem Women Sunglasses 1015-162",
-    "image": "http://assets.myntassets.com/v1/images/style/properties/99ce051ee955885e6883d13c426e6154_images.jpg",
-    "description": "",
-    "price": 145.75,
-    "isDeleted": false
-  },
-  {
-    "id": "44656",
-    "gender": "Women",
-    "category": "Shirts",
-    "name": "Lee Women Blue Shirt",
-    "image": "http://assets.myntassets.com/v1/images/style/properties/Lee-Women-Blue-Shirt_2cd469e57b85a557b17e0ae456b460b0_images.jpg",
-    "description": "",
-    "price": 188.86,
-    "isDeleted": false
-  },
-  {
-    "id": "14126",
-    "gender": "Women",
-    "category": "Jeans",
-    "name": "Flying Machine Women Washed Blue Jeans",
-    "image": "http://assets.myntassets.com/v1/images/style/properties/65d1d8360a5e3e558e3413b60948c8b4_images.jpg",
-    "description": "",
-    "price": 110.73,
-    "isDeleted": false
-  },
-  {
-    "id": "57073",
-    "gender": "Women",
-    "category": "Jeans",
-    "name": "Elle Women Blue Jeans",
-    "image": "http://assets.myntassets.com/v1/images/style/properties/Elle-Women-Blue-Jeans_296523f25de1ea222a13ca19734a0df3_images.jpg",
-    "description": "",
-    "price": 197.56,
-    "isDeleted": false
-  },
-  {
-    "id": "28387",
-    "gender": "Men",
-    "category": "Sunglasses",
-    "name": "Idee Men Black Sunglasses",
-    "image": "http://assets.myntassets.com/v1/images/style/properties/IDEE-Men-Black-Sunglassesa72112d209b969e6d8865786a40209bb_images.jpg",
-    "description": "",
-    "price": 1231,
-    "isDeleted": false
-  },
-  {
-    "id": "9145",
-    "gender": "Women",
-    "category": "Jeans",
-    "name": "Lee Women Rinsed Blue Roxy Fit Jeans",
-    "image": "http://assets.myntassets.com/v1/images/style/properties/9e9a45cad205b1686cc3220a2ec21ddd_images.jpg",
-    "description": "",
-    "price": 1,
-    "isDeleted": false
-  },
-  {
-    "id": "28373",
-    "gender": "Men",
-    "category": "Sunglasses",
-    "name": "Idee Men Metallic Sunglasses",
-    "image": "http://assets.myntassets.com/v1/images/style/properties/IDEE-Men-Metallic-Sunglasses52aaf4b63afd3c28eacf7d249257095c_images.jpg",
-    "description": "",
-    "price": 106.34,
-    "isDeleted": false
-  },
-  {
-    "id": "27935",
-    "gender": "Women",
-    "category": "Jeans",
-    "name": "Jealous 21 Women Lavender Magic Colour Jeans",
-    "image": "http://assets.myntassets.com/v1/images/style/properties/924d2fbc1d23ab34e0d5ab436cc362a7_images.jpg",
-    "description": "",
-    "price": 174.19,
-    "isDeleted": false
-  },
-  {
-    "id": "57074",
-    "gender": "Women",
-    "category": "Jeans",
-    "name": "Elle Women Black Jeans",
-    "image": "http://assets.myntassets.com/v1/images/style/properties/Elle-Women-Black-Jeans_03d499a9dc2a7f0f758da0b358bcf757_images.jpg",
-    "description": "",
-    "price": 169.97,
-    "isDeleted": false
-  },
-  {
-    "id": "9189",
-    "gender": "Men",
-    "category": "Jeans",
-    "name": "Spykar Men Style Essentials Spykar Jeans Rns Blue Jeans",
-    "image": "http://assets.myntassets.com/v1/images/style/properties/30213ae130f85c07658b53e600336835_images.jpg",
-    "description": "",
-    "price": 122.99,
-    "isDeleted": false
-  },
-  {
-    "id": "28179",
-    "gender": "Men",
-    "category": "Sunglasses",
-    "name": "Ray-Ban Men Aviator Gold Sunglasses",
-    "image": "http://assets.myntassets.com/v1/images/style/properties/Ray-Ban-Men-Aviator-Gold-Sunglasses037adea3060be5060f400c6ab75fbff9_images.jpg",
-    "description": "",
-    "price": 172.02,
-    "isDeleted": false
-  },
-  {
-    "id": "29897",
-    "gender": "Women",
-    "category": "Sunglasses",
-    "name": "Mayhem Women Sunglasses 1011-102",
-    "image": "http://assets.myntassets.com/v1/images/style/properties/0c8cbe2f3802b9cda5858d5dd6ad87e1_images.jpg",
-    "description": "",
-    "price": 140.65,
-    "isDeleted": false
-  },
-  {
-    "id": "14121",
-    "gender": "Men",
-    "category": "Jeans",
-    "name": "Flying Machine Washed Blue Jeans",
-    "image": "http://assets.myntassets.com/v1/images/style/properties/93351ef3dc3737d7495280c6187aa87a_images.jpg",
-    "description": "",
-    "price": 158.7,
-    "isDeleted": false
-  },
-  {
-    "id": "23757",
-    "gender": "Men",
-    "category": "Sunglasses",
-    "name": "Oakley Men Translucent Grey Frame Driving Goggles",
-    "image": "http://assets.myntassets.com/v1/images/style/properties/OAKLEY-Men-Translucent-Grey-Frame-Driving-Gogglesa0e626e91c6b8a294e29f5678279ac96_images.jpg",
-    "description": "",
-    "price": 195.15,
-    "isDeleted": false
-  },
-  {
-    "id": "29863",
-    "gender": "Men",
-    "category": "Sunglasses",
-    "name": "Mayhem Men Rectangular Sunglasses 1025-205d",
-    "image": "http://assets.myntassets.com/v1/images/style/properties/9730d138bfbeb2d3be05b83f8cfd0fe7_images.jpg",
-    "description": "",
-    "price": 188.97,
-    "isDeleted": false
-  },
-  {
-    "id": "18185",
-    "gender": "Men",
-    "category": "Jeans",
-    "name": "Deni Yo Men Washed Blue Slim Fit Jeans",
-    "image": "http://assets.myntassets.com/v1/images/style/properties/a1300728a417280445b0b07eec784211_images.jpg",
-    "description": "",
-    "price": 197.6,
-    "isDeleted": false
-  },
-  {
-    "id": "29094",
-    "gender": "Women",
-    "category": "Sunglasses",
-    "name": "Mtv Women Sunglasses",
-    "image": "http://assets.myntassets.com/v1/images/style/properties/M-tv-Women-Sunglasses_e5cd717dae72d209a70a9eecbef4953b_images.jpg",
-    "description": "",
-    "price": 126.32,
-    "isDeleted": false
-  },
-  {
-    "id": "46905",
-    "gender": "Men",
-    "category": "Jeans",
-    "name": "Peter England Men Navy Blue Jeans",
-    "image": "http://assets.myntassets.com/v1/images/style/properties/5105a8769a7286197b9ad386a5b8b48b_images.jpg",
-    "description": "",
-    "price": 161.51,
-    "isDeleted": false
-  },
-  {
-    "id": "28374",
-    "gender": "Men",
-    "category": "Sunglasses",
-    "name": "Idee Men Copper Sunglasses",
-    "image": "http://assets.myntassets.com/v1/images/style/properties/fe398097ced740f61cda7a16d5ba503a_images.jpg",
-    "description": "",
-    "price": 109.53,
-    "isDeleted": false
-  },
-  {
-    "id": "52539",
-    "gender": "Women",
-    "category": "Jeans",
-    "name": "Pepe Jeans Women Blue Jeans",
-    "image": "http://assets.myntassets.com/v1/images/style/properties/8d939d97b8a7e7708bc5b79cbfd6edeb_images.jpg",
-    "description": "",
-    "price": 107.6,
-    "isDeleted": false
-  },
-  {
-    "id": "23768",
-    "gender": "Women",
-    "category": "Sunglasses",
-    "name": "Oakley Women Black Unfaithful Sunglasses",
-    "image": "http://assets.myntassets.com/v1/images/style/properties/Oakley-Women-Black-Unfaithful-Sunglassesfe112852047633ac071535ae792b74a5_images.jpg",
-    "description": "",
-    "price": 182.53,
-    "isDeleted": false
-  },
-  {
-    "id": "28380",
-    "gender": "Men",
-    "category": "Sunglasses",
-    "name": "I Dee Men Black Sunglasses",
-    "image": "http://assets.myntassets.com/v1/images/style/properties/IDEE-Men-Black-Sunglasses212747c69e21f038a507b09a963b62a2_images.jpg",
-    "description": "",
-    "price": 142.64,
-    "isDeleted": false
-  },
-  {
-    "id": "9142",
-    "gender": "Women",
-    "category": "Jeans",
-    "name": "Lee Women Black Eva Fit Jeans",
-    "image": "http://assets.myntassets.com/v1/images/style/properties/9437df2c704ae315a6bd262f20b00e38_images.jpg",
-    "description": "",
-    "price": 186.7,
-    "isDeleted": false
-  },
-  {
-    "id": "40008",
-    "gender": "Men",
-    "category": "Sunglasses",
-    "name": "Park Avenue Men Blue Frame Sunglasses",
-    "image": "http://assets.myntassets.com/v1/images/style/properties/01c61367fe6867261d73285bd2ddd40f_images.jpg",
-    "description": "",
-    "price": 141.5,
-    "isDeleted": false
-  },
-  {
-    "id": "11233",
-    "gender": "Women",
-    "category": "Jeans",
-    "name": "Flying Machine Women Low Rise Black Jeans",
-    "image": "http://assets.myntassets.com/v1/images/style/properties/3fb6a63d9d644b1ab4ee84e83af711bc_images.jpg",
-    "description": "",
-    "price": 184.48,
-    "isDeleted": false
-  },
-  {
-    "id": "14117",
-    "gender": "Women",
-    "category": "Jeans",
-    "name": "Flying Machine Women Washed Blue Jeans",
-    "image": "http://assets.myntassets.com/v1/images/style/properties/d40c7c73da412a997222476cbd9611ab_images.jpg",
-    "description": "",
-    "price": 108.3,
-    "isDeleted": false
-  },
-  {
-    "id": "28389",
-    "gender": "Men",
-    "category": "Sunglasses",
-    "name": "Idee Men Black Sunglasses",
-    "image": "http://assets.myntassets.com/v1/images/style/properties/7632e93ffb75eacca6d27089b7f87abf_images.jpg",
-    "description": "",
-    "price": 180.37,
-    "isDeleted": false
-  },
-  {
-    "id": "23761",
-    "gender": "Men",
-    "category": "Sunglasses",
-    "name": "Oakley Men Brown Sunglasses",
-    "image": "http://assets.myntassets.com/v1/images/style/properties/Oakley-Men-Brown-Sunglasses97227eba2c61c7bb8a11922670e70eba_images.jpg",
-    "description": "",
-    "price": 167.15,
-    "isDeleted": false
-  },
-  {
-    "id": "40001",
-    "gender": "Men",
-    "category": "Sunglasses",
-    "name": "Park Avenue Men Black Frame Sunglasses",
-    "image": "http://assets.myntassets.com/v1/images/style/properties/b6321d622361cf1d618b61a239300aa6_images.jpg",
-    "description": "",
-    "price": 155.02,
-    "isDeleted": false
-  },
-  {
-    "id": "51725",
-    "gender": "Men",
-    "category": "Sunglasses",
-    "name": "Allen Solly Men Black Sunglass",
-    "image": "http://assets.myntassets.com/v1/images/style/properties/Allen-Solly-Men-Black-Sunglass_f62e925ddc7c183eff4933ff006a805a_images.jpg",
-    "description": "",
-    "price": 135.53,
-    "isDeleted": false
-  },
-  {
-    "id": "28170",
-    "gender": "Men",
-    "category": "Sunglasses",
-    "name": "Ray-Ban Men Aviator Sunglasses",
-    "image": "http://assets.myntassets.com/assets/images/28170/2017/2/22/11487759233569-Ray-Ban-Men-Aviator-Sunglasses-6611487759233383-1.jpg",
-    "description": "",
-    "price": 188.29,
-    "isDeleted": false
-  },
-  {
-    "id": "14128",
-    "gender": "Women",
-    "category": "Jeans",
-    "name": "Flying Machine Women Washed Blue Jeans",
-    "image": "http://assets.myntassets.com/v1/images/style/properties/a95e2df7700db34c77a4cd09a23b18d1_images.jpg",
-    "description": "",
-    "price": 131.44,
-    "isDeleted": false
-  },
-  {
-    "id": "33538",
-    "gender": "Women",
-    "category": "Jeans",
-    "name": "Wrangler Women Black Giselle Jeans",
-    "image": "http://assets.myntassets.com/v1/images/style/properties/5e05a1a84e4b110789f0d3aa917d4c24_images.jpg",
-    "description": "",
-    "price": 165.21,
-    "isDeleted": false
-  },
-  {
-    "id": "20913",
-    "gender": "Men",
-    "category": "Jeans",
-    "name": "Deni Yo Men Washed Blue Jeans",
-    "image": "http://assets.myntassets.com/v1/images/style/properties/17af8003001ee52e65b7c5975e0bcdc0_images.jpg",
-    "description": "",
-    "price": 112.26,
-    "isDeleted": false
-  },
-  {
-    "id": "28342",
-    "gender": "Men",
-    "category": "Sunglasses",
-    "name": "Idee Men Black Sunglasses",
-    "image": "http://assets.myntassets.com/v1/images/style/properties/IDEE-Men-Black-Sunglassesdf339e45e4c504ff04973f47be83242c_images.jpg",
-    "description": "",
-    "price": 105.33,
-    "isDeleted": false
-  },
-  {
-    "id": "28184",
-    "gender": "Men",
-    "category": "Sunglasses",
-    "name": "Ray-Ban Men Aviator Black Sunglasses",
-    "image": "http://assets.myntassets.com/v1/images/style/properties/dab02b8b60897dc9c269dc0d54964ea6_images.jpg",
-    "description": "",
-    "price": 132.21,
-    "isDeleted": false
-  },
-  {
-    "id": "43489",
-    "gender": "Men",
-    "category": "Jeans",
-    "name": "French Connection Men Black Jeans",
-    "image": "http://assets.myntassets.com/v1/images/style/properties/9e539f4fa57cfd97e48e0f5493a46151_images.jpg",
-    "description": "",
-    "price": 135.21,
-    "isDeleted": false
-  },
-  {
-    "id": "9174",
-    "gender": "Men",
-    "category": "Jeans",
-    "name": "Locomotive Men Balin Blue Jeans",
-    "image": "http://assets.myntassets.com/v1/images/style/properties/0b19df2fd7be6224aa42bcc40d525df7_images.jpg",
-    "description": "",
-    "price": 118.27,
-    "isDeleted": false
-  },
-  {
-    "id": "51722",
-    "gender": "Men",
-    "category": "Sunglasses",
-    "name": "Allen Solly Men Blue Sunglasses AS232-C4",
-    "image": "http://assets.myntassets.com/v1/images/style/properties/Allen-Solly-Men-Blue-Sunglass_76f345d1441c75a3e7a9ea5e41b18b92_images.jpg",
-    "description": "",
-    "price": 195.7,
-    "isDeleted": false
-  },
-  {
-    "id": "23766",
-    "gender": "Men",
-    "category": "Sunglasses",
-    "name": "Oakley Men Black Fast Jacket Sunglasses",
-    "image": "http://assets.myntassets.com/v1/images/style/properties/Oakley-Men-Black-Fast-Jacket-Sunglasses1072b4b41f6c833df7c078b024f11bf8_images.jpg",
-    "description": "",
-    "price": 132.84,
-    "isDeleted": false
-  },
-  {
-    "id": "40006",
-    "gender": "Men",
-    "category": "Sunglasses",
-    "name": "Park Avenue Men Steel Frame Sunglasses",
-    "image": "http://assets.myntassets.com/v1/images/style/properties/ac96b0a58e9129abb30cc27403dd0741_images.jpg",
-    "description": "",
-    "price": 171.61,
-    "isDeleted": false
-  },
-  {
-    "id": "23792",
-    "gender": "Women",
-    "category": "Sunglasses",
-    "name": "Oakley Women Immerse Red Sunglasses",
-    "image": "http://assets.myntassets.com/v1/images/style/properties/Oakley-Women-Immerse-Red-Sunglasses26433f7a829c28322286d286088d89e8_images.jpg",
-    "description": "",
-    "price": 177.1,
-    "isDeleted": false
-  },
-  {
-    "id": "11234",
-    "gender": "Women",
-    "category": "Jeans",
-    "name": "Flying Machine Women Lowrise Black Jeans",
-    "image": "http://assets.myntassets.com/v1/images/style/properties/232f9fd7d19b937f0c1251a2fa0e58fb_images.jpg",
-    "description": "",
-    "price": 156.82,
-    "isDeleted": false
-  },
-  {
-    "id": "9173",
-    "gender": "Men",
-    "category": "Jeans",
-    "name": "Locomotive Men Bao Blue Jeans",
-    "image": "http://assets.myntassets.com/v1/images/style/properties/af7cd1e43d7340119e4ec7666e2cf9ca_images.jpg",
-    "description": "",
-    "price": 193.19,
-    "isDeleted": false
-  },
-  {
-    "id": "48066",
-    "gender": "Men",
-    "category": "Jeans",
-    "name": "French Connection Men Black Jeans",
-    "image": "http://assets.myntassets.com/v1/images/style/properties/cd2c0db646341b592a9e57b8f05af0e5_images.jpg",
-    "description": "",
-    "price": 151.35,
-    "isDeleted": false
-  },
-  {
-    "id": "9187",
-    "gender": "Men",
-    "category": "Jeans",
-    "name": "Spykar Men Style Essentials Spykar Basic Attire Series 0428 Blue Jeans",
-    "image": "http://assets.myntassets.com/v1/images/style/properties/ef39ff01e72b5cde4ebfae26fbbedcb5_images.jpg",
-    "description": "",
-    "price": 154.98,
-    "isDeleted": false
-  },
-  {
-    "id": "51587",
-    "gender": "Women",
-    "category": "Jeans",
-    "name": "Wrangler Women Navy Blue Molly Jeans",
-    "image": "http://assets.myntassets.com/v1/images/style/properties/2f94b8f244160fa6dc46eefac8d41d87_images.jpg",
-    "description": "",
-    "price": 146.3,
-    "isDeleted": false
-  },
-  {
-    "id": "52554",
-    "gender": "Women",
-    "category": "Jeans",
-    "name": "Pepe Jeans Women Blue Jeans",
-    "image": "http://assets.myntassets.com/v1/images/style/properties/51c7d40b98be2db096db2062a8949e72_images.jpg",
-    "description": "",
-    "price": 1231.55,
-    "isDeleted": false
-  },
-  {
-    "id": "31668",
-    "gender": "Men",
-    "category": "Jeans",
-    "name": "Spykar Men Grey Jeans",
-    "image": "http://assets.myntassets.com/v1/images/style/properties/d2ce69777468edf727bebe1600630ee2_images.jpg",
-    "description": "",
-    "price": 166.37,
-    "isDeleted": false
-  },
-  {
-    "id": "41349",
-    "gender": "Men",
-    "category": "Jeans",
-    "name": "Wrangler Men Blue Skanders Jeans",
-    "image": "http://assets.myntassets.com/v1/images/style/properties/2c8d17bf0260587c131c46adbdcffa27_images.jpg",
-    "description": "",
-    "price": 141.2,
-    "isDeleted": false
-  },
-  {
-    "id": "52553",
-    "gender": "Women",
-    "category": "Jeans",
-    "name": "Pepe Jeans Women Blue Jeans",
-    "image": "http://assets.myntassets.com/v1/images/style/properties/248555e743ea2d0a414b2ad6ef9e7711_images.jpg",
-    "description": "",
-    "price": 118.27,
-    "isDeleted": false
-  },
-  {
-    "id": "13351",
-    "gender": "Women",
-    "category": "Jeans",
-    "name": "Spykar Women Washed Black Jeans",
-    "image": "http://assets.myntassets.com/v1/images/style/properties/88e3d13f5faff1687ff561c14ef8438b_images.jpg",
-    "description": "",
-    "price": 164.96,
-    "isDeleted": false
-  },
-  {
-    "id": "43421",
-    "gender": "Men",
-    "category": "Jeans",
-    "name": "Spykar Men Navy Blue Jeans",
-    "image": "http://assets.myntassets.com/v1/images/style/properties/01ddaf654bb9e58b1d3670672d311ab6_images.jpg",
-    "description": "",
-    "price": 176.46,
-    "isDeleted": false
-  },
-  {
-    "id": "11292",
-    "gender": "Men",
-    "category": "Jeans",
-    "name": "Wrangler Men Blue Millard Jeans",
-    "image": "http://assets.myntassets.com/v1/images/style/properties/648ec60e085e3bfc3c95949ece4faaa3_images.jpg",
-    "description": "",
-    "price": 143.3,
-    "isDeleted": false
-  },
-  {
-    "id": "41347",
-    "gender": "Men",
-    "category": "Jeans",
-    "name": "Wrangler Men Black Texas Jeans",
-    "image": "http://assets.myntassets.com/v1/images/style/properties/ec0818ed5d8788fd13fb2b875f6c438f_images.jpg",
-    "description": "",
-    "price": 121.55,
-    "isDeleted": false
-  },
-  {
-    "id": "43246",
-    "gender": "Men",
-    "category": "Jeans",
-    "name": "Denizen Men Blue Jeans",
-    "image": "http://assets.myntassets.com/v1/images/style/properties/e2891766778b5663bcad1ed16445d472_images.jpg",
-    "description": "",
-    "price": 152.44,
-    "isDeleted": false
-  },
-  {
-    "id": "11295",
-    "gender": "Men",
-    "category": "Jeans",
-    "name": "Wrangler Men Blue Texas Jeans",
-    "image": "http://assets.myntassets.com/v1/images/style/properties/d8879a06c95e34869b4228d5470bfb97_images.jpg",
-    "description": "",
-    "price": 110.6,
-    "isDeleted": false
-  },
-  {
-    "id": "52536",
-    "gender": "Women",
-    "category": "Jeans",
-    "name": "Pepe Jeans Women Grey Jeans",
-    "image": "http://assets.myntassets.com/v1/images/style/properties/Pepe-Jeans-Women-Grey-Jeans_fcca37a7c398f6c9215157b848ddb736_images.jpg",
-    "description": "",
-    "price": 170.72,
-    "isDeleted": false
-  },
-  {
-    "id": "11235",
-    "gender": "Women",
-    "category": "Jeans",
-    "name": "Flying Machine Women Midrise Blue Jeans",
-    "image": "http://assets.myntassets.com/v1/images/style/properties/acfb1b463e84641f86b08a1508cb5808_images.jpg",
-    "description": "",
-    "price": 119.91,
-    "isDeleted": false
-  },
-  {
-    "id": "20915",
-    "gender": "Men",
-    "category": "Jeans",
-    "name": "Deni Yo Men Washed Blue Jeans",
-    "image": "http://assets.myntassets.com/v1/images/style/properties/bd568e4ce5f437148aeb2911c64be4ba_images.jpg",
-    "description": "",
-    "price": 110.08,
-    "isDeleted": false
-  },
-  {
-    "id": "9186",
-    "gender": "Men",
-    "category": "Jeans",
-    "name": "Spykar Men Free Wheeler Spirit Denim Blue Jeans",
-    "image": "http://assets.myntassets.com/v1/images/style/properties/64b2de17c4b53d1aac32027e42459c2f_images.jpg",
-    "description": "",
-    "price": 124.66,
-    "isDeleted": false
-  },
-  {
-    "id": "14116",
-    "gender": "Men",
-    "category": "Jeans",
-    "name": "Flying Machine Men Blue Jeans",
-    "image": "http://assets.myntassets.com/v1/images/style/properties/0254742e2112f317cebfabc4a288d4f8_images.jpg",
-    "description": "",
-    "price": 133.9,
-    "isDeleted": false
-  },
-  {
-    "id": "9175",
-    "gender": "Men",
-    "category": "Jeans",
-    "name": "Locomotive Men Banks Blue Jeans",
-    "image": "http://assets.myntassets.com/v1/images/style/properties/5da4f9a70d6758ff3a88be171765324b_images.jpg",
-    "description": "",
-    "price": 137.16,
-    "isDeleted": false
-  },
-  {
-    "id": "14129",
-    "gender": "Men",
-    "category": "Jeans",
-    "name": "Flying Machine Men Washed Blue Jeans",
-    "image": "http://assets.myntassets.com/v1/images/style/properties/4b0801c2d779be71bde17ceb1c240f80_images.jpg",
-    "description": "",
-    "price": 146.3,
-    "isDeleted": false
-  },
-  {
     "id": "12488",
     "gender": "Men",
     "category": "Sandals",
@@ -5157,106 +1927,6 @@
     "image": "http://assets.myntassets.com/v1/images/style/properties/bb9bd41df1cbdd3dd777f22ed4e39eed_images.jpg",
     "description": "",
     "price": 111.55,
-    "isDeleted": false
-  },
-  {
-    "id": "57075",
-    "gender": "Women",
-    "category": "Jeans",
-    "name": "Elle Blue Jeans",
-    "image": "http://assets.myntassets.com/v1/images/style/properties/Elle-Women-Blue-Jeans_a93219ce85aae0fa3b168355d1004ad3_images.jpg",
-    "description": "",
-    "price": 159.21,
-    "isDeleted": false
-  },
-  {
-    "id": "9143",
-    "gender": "Women",
-    "category": "Jeans",
-    "name": "Lee Women Blue Skinny Fit Stretchable Jeans",
-    "image": "http://assets.myntassets.com/assets/images/9143/2016/7/27/11469598017923-Lee-Women-Blue-Roxy-Jeans-9001469598013956-1.jpg",
-    "description": "",
-    "price": 173.45,
-    "isDeleted": false
-  },
-  {
-    "id": "36841",
-    "gender": "Women",
-    "category": "Jeans",
-    "name": "Spykar Women Renegade Navy Blue Jeans",
-    "image": "http://assets.myntassets.com/v1/images/style/properties/SPYKAR-Women-Renegade-Blue-Jeans_60eaf19e4900dee1d5102498a416a943_images.jpg",
-    "description": "",
-    "price": 158.11,
-    "isDeleted": false
-  },
-  {
-    "id": "37197",
-    "gender": "Women",
-    "category": "Jeans",
-    "name": "United Colors of Benetton Women Navy Blue Jeans",
-    "image": "http://assets.myntassets.com/v1/images/style/properties/a3c601db72d8e7cbcb7ea8db4aa23fa3_images.jpg",
-    "description": "",
-    "price": 126.7,
-    "isDeleted": false
-  },
-  {
-    "id": "57072",
-    "gender": "Women",
-    "category": "Jeans",
-    "name": "Elle Women Blue Jeans",
-    "image": "http://assets.myntassets.com/v1/images/style/properties/Elle-Women-Blue-Jeans_7ba553597691c5787ab2a8fddd9ee278_images.jpg",
-    "description": "",
-    "price": 138.47,
-    "isDeleted": false
-  },
-  {
-    "id": "14127",
-    "gender": "Men",
-    "category": "Jeans",
-    "name": "Flying Machine Men Washed Blue Jeans",
-    "image": "http://assets.myntassets.com/v1/images/style/properties/8fe11d8fda0b0073b6019556d507ea8c_images.jpg",
-    "description": "",
-    "price": 185.39,
-    "isDeleted": false
-  },
-  {
-    "id": "14118",
-    "gender": "Men",
-    "category": "Jeans",
-    "name": "Flying Machine Men Blue Jeans",
-    "image": "http://assets.myntassets.com/v1/images/style/properties/a2f99b19429f9e581b69ce6eb0f6a1b8_images.jpg",
-    "description": "",
-    "price": 131.93,
-    "isDeleted": false
-  },
-  {
-    "id": "46903",
-    "gender": "Men",
-    "category": "Jeans",
-    "name": "Peter England Men Blue Jeans",
-    "image": "http://assets.myntassets.com/v1/images/style/properties/d1ae497127bb835ad6d4a57ede01171c_images.jpg",
-    "description": "",
-    "price": 196.44,
-    "isDeleted": false
-  },
-  {
-    "id": "9144",
-    "gender": "Women",
-    "category": "Jeans",
-    "name": "Lee Women Scraped Blue Roxy Fit Jeans",
-    "image": "http://assets.myntassets.com/v1/images/style/properties/9c6a1255f6cee8fe6baab490dd3d9c2e_images.jpg",
-    "description": "",
-    "price": 161.97,
-    "isDeleted": false
-  },
-  {
-    "id": "9166",
-    "gender": "Men",
-    "category": "Jeans",
-    "name": "Locomotive Men Rafe Blue Jeans",
-    "image": "http://assets.myntassets.com/v1/images/style/properties/b04ff00d0b2543029630a34c3324e55b_images.jpg",
-    "description": "",
-    "price": 160.93,
     "isDeleted": false
   },
   {
