@@ -2,7 +2,7 @@ const { sendResponse, AppError, catchAsync } = require("../helpers/utils.js");
 const bcrypt = require("bcryptjs");
 const cloudinary = require("../helpers/cloudinary.js");
 const Product = require("../models/product.js");
-const { param } = require("../routes/product.api.js");
+// const { param } = require("../routes/product.api.js");
 
 const productController = {};
 
