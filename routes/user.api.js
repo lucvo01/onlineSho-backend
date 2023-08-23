@@ -6,7 +6,14 @@ const validators = require("../middlewares/validators");
 const authentication = require("../middlewares/authentication");
 
 /**
- * @route POST /user/register
+ * @route GET /users/stats
+ * @description Get user stats
+ * @access Login required
+ */
+router.get("/stats", userController.getUserStats);
+
+/**
+ * @route POST /users/register
  * @description Register a new user
  * @body {name, email, password}
  * @access Public

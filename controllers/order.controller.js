@@ -1,6 +1,6 @@
 const { sendResponse, AppError, catchAsync } = require("../helpers/utils.js");
 const bcrypt = require("bcryptjs");
-
+const moment = require("moment");
 const Order = require("../models/order.js");
 
 const orderController = {};
@@ -112,5 +112,35 @@ orderController.getAnOrder = catchAsync(async (req, res, next) => {
   sendResponse(res, 200, true, order, null, "Get Single Order Success");
 });
 
+orderController.getOrderStats = catchAsync(async (req, res, next) => {
+  const previousMonnth = moment()
+    .month(moment().month() - 1)
+    .set("date", 1)
+    .format("YYYY-MM-DD HH:mm:ss");
+
+  try {
+    const orders = await Order.aggregate([
+      {
+        $match: { createdAt: { $gte: new Date(previousMonnth) } }
+      },
+      {
+        $project: {
+          month: { $month: "$createdAt" },
+          sales: "$subtotal"
+        }
+      },
+      {
+        $group: {
+          _id: "$month",
+          total: { $sum: 1 },
+          income: { $sum: "$sales" }
+        }
+      }
+    ]);
+    sendResponse(res, 200, true, orders, null, "Get user stats success");
+  } catch (error) {
+    next(error);
+  }
+});
 //export
 module.exports = orderController;

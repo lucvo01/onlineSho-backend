@@ -6,6 +6,7 @@ const {
 } = require("../helpers/utils.js");
 const bcrypt = require("bcryptjs");
 const User = require("../models/user.js");
+const moment = require("moment");
 
 const userController = {};
 
@@ -125,6 +126,35 @@ userController.updateUserById = catchAsync(async (req, res, next) => {
       null,
       "Update user success"
     );
+  } catch (error) {
+    next(error);
+  }
+});
+
+userController.getUserStats = catchAsync(async (req, res, next) => {
+  const previousMonnth = moment()
+    .month(moment().month() - 1)
+    .set("date", 1)
+    .format("YYYY-MM-DD HH:mm:ss");
+
+  try {
+    const users = await User.aggregate([
+      {
+        $match: { createdAt: { $gte: new Date(previousMonnth) } }
+      },
+      {
+        $project: {
+          month: { $month: "$createdAt" }
+        }
+      },
+      {
+        $group: {
+          _id: "$month",
+          total: { $sum: 1 }
+        }
+      }
+    ]);
+    sendResponse(res, 200, true, users, null, "Get user stats success");
   } catch (error) {
     next(error);
   }

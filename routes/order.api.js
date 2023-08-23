@@ -7,6 +7,13 @@ const validators = require("../middlewares/validators");
 const authentication = require("../middlewares/authentication");
 
 /**
+ * @route GET /orders/stats
+ * @description Get order stats
+ * @access Admin Login required
+ */
+router.get("/stats", orderController.getOrderStats);
+
+/**
  * @route POST /orders
  * @description Create an order
  * @body { userId, products, subtotal, total, shipping, delivery_status, payment_status }
