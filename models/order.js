@@ -1,6 +1,5 @@
 const mongoose = require("mongoose");
 const Schema = mongoose.Schema;
-// const Product = require("./product");
 
 const orderSchema = new mongoose.Schema(
   {

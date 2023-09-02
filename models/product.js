@@ -8,7 +8,6 @@ const productSchema = new mongoose.Schema(
     gender: { type: String, required: true },
     category: {
       type: String,
-      // enum: ["Shirts", "Tshirts", "Jeans", "Shorts", "Sandals", "Sunglasses"],
       required: true
     },
     image: { type: Object, required: false },

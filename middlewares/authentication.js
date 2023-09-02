@@ -20,7 +20,6 @@ authentication.loginRequired = (req, res, next) => {
         }
       }
       req.user = payload;
-      //   req.userId = payload._id;
     });
     next();
   } catch (error) {

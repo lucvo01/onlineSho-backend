@@ -2,19 +2,11 @@ const { sendResponse, AppError, catchAsync } = require("../helpers/utils.js");
 const bcrypt = require("bcryptjs");
 const cloudinary = require("../helpers/cloudinary.js");
 const Product = require("../models/product.js");
-// const { param } = require("../routes/product.api.js");
 
 const productController = {};
 
 productController.createProduct = catchAsync(async (req, res, next) => {
   const { name, description, price, category, gender, image } = req.body;
-
-  // let uploadResponse = null;
-  // if (req.file) {
-  //   uploadResponse = await cloudinary.uploader.upload(req.file.path, {
-  //     upload_preset: "online_shop"
-  //   });
-  // }
 
   const product = await Product.create({
     name,
