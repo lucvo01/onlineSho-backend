@@ -7,7 +7,8 @@ const orderSchema = new mongoose.Schema(
     products: [
       {
         _id: { type: Schema.Types.ObjectId, ref: "Product" },
-        quantity: { type: Number, default: 1 }
+        quantity: { type: Number, default: 1 },
+        size: { type: String, enum: ["XS", "S", "M", "L", "XL"] }
       }
     ],
     subtotal: { type: Number, required: true },
