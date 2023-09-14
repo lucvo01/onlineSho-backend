@@ -211,4 +211,4 @@ Our online shop wants to build web app that serves as a platform to allow our cu
  */
 ```
 
-![Diagram](./onlineShop_diagram.drawio.png)
+![Diagram](./onlineShop_diagram.png)
