@@ -210,4 +210,4 @@ Our online shop wants to build web app that serves as a platform to allow our cu
  * @access Public
  */
 ```
-![Alt text here](./online_shop_diagram.drawio.png)
+![Diagram](./online_shop_diagram.drawio.png)
